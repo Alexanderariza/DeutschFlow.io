@@ -1,4 +1,4 @@
-# DeutschFlow - PWA para Aprender Alemán 🇩🇪
+# DeutschFlow - PWA para Aprender Alemán 🗣️
 
 ![Icon](./icon-128.png)
 
