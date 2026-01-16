@@ -213,9 +213,9 @@ Este proyecto está bajo la licencia **MIT**. Ver `LICENSE` para más detalles.
 
 <div align="center">
 🌍 Aprende Alemán  
-![PWA Ready](./icons/shield-pwa.png)
-![Offline](./icons/shield-offline.png)
-![Open Source](./icons/shield-opensource.png)
+![PWA Ready](./icons/PWA-Ready-brightgreen.svg)
+![Offline](./icons/100%-Offline-blue.svg)
+![Open Source](./icons/Open Source-❤-red.svg)
 </div>
 
 ---
