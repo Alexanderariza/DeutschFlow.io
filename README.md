@@ -217,6 +217,7 @@ Este proyecto está bajo la licencia **MIT**. Ver `LICENSE` para más detalles.
 <img src="./icons/PWA-Ready-brightgreen.svg" alt="PWA Ready" width="150"/>
 <img src="./icons/Offline-100-blue.svg" alt="Offline" width="150"/>
 <img src="./icons/OpenSource-heart-red.svg" alt="Open Source" width="150"/>
+  https://github.com/Geo-Way/GeoWay.io/blob/main/images/Logo5.png
 </div>
 
 
