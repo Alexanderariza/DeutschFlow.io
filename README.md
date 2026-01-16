@@ -1,6 +1,6 @@
 # DeutschFlow - PWA para Aprender Alemán 🇩🇪
 
-![Icon](./icon-192.png)
+![Icon](./icon-128.png)
 
 DeutschFlow es una **Progressive Web App (PWA)** interactiva diseñada para dominar la gramática alemana a través de ejercicios dinámicos y un sistema gamificado.
 
