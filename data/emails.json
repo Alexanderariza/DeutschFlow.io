@@ -1,0 +1,776 @@
+[
+  {
+    "type": "theory",
+    "emoji": "📚",
+    "verb": "TEORÍA: Emails en Alemán",
+    "theory": {
+      "title": "Guía Completa para Escribir Emails en Alemán",
+      "content": [
+        "Los emails en alemán siguen convenciones específicas según el contexto y la relación con el destinatario.",
+        "La estructura típica incluye: Saludo apropiado → Cuerpo claro y conciso → Despedida formal/informal → Firma.",
+        "La elección entre 'Sie' (formal) y 'du' (informal) es crucial y depende de la relación profesional/personal.",
+        "Los verbos modales (möchten, können, sollen, dürfen) son esenciales para expresar deseos, posibilidades y peticiones educadas.",
+        "La posición del verbo en la oración sigue la regla de la Satzklammer (estructura de caja de oración), especialmente en tiempos compuestos."
+      ],
+      "tips": [
+        "📌 Siempre incluya un saludo y despedida apropiados al contexto",
+        "📌 Use 'Sehr geehrte(r)' para formal, 'Liebe(r)' para semiformal, 'Hallo' para informal",
+        "📌 Sea claro y conciso - los alemanes valoran la directitud",
+        "📌 Revise la ortografía y gramática antes de enviar",
+        "📌 Incluya un asunto (Betreff) descriptivo y relevante",
+        "📌 En emails formales, incluya sus datos de contacto en la firma",
+        "📌 Para peticiones, use verbos modales como 'könnten Sie', 'würden Sie' para mayor cortesía"
+      ]
+    }
+  },
+  {
+    "verb": "Hotel reservieren",
+    "type": "email",
+    "emoji": "🏨",
+    "teoria": {
+      "situation": "Reserva de hotel para vacaciones o viaje de negocios",
+      "estructura_tipica": [
+        "1. Saludo formal",
+        "2. Solicitud clara de reserva",
+        "3. Especificación de fechas y tipo de habitación",
+        "4. Preguntas adicionales (desayuno, cancelación, etc.)",
+        "5. Cierre formal"
+      ],
+      "expresiones_clave": [
+        "Ich möchte gerne... reservieren (Me gustaría reservar...)",
+        "vom ... bis ... (del ... al ...)",
+        "Einzelzimmer/Doppelzimmer (habitación individual/doble)",
+        "inklusive Frühstück (incluyendo desayuno)",
+        "Können Sie mir bestätigen? (¿Puede confirmármelo?)"
+      ],
+      "consejos": [
+        "Siempre incluir fechas exactas",
+        "Especificar número de personas",
+        "Preguntar sobre políticas de cancelación",
+        "Pedir confirmación por escrito"
+      ]
+    },
+    "situation": "Reserva de hotel para vacaciones",
+    "tenses": [
+      {
+        "tense": "Anfrage (Consulta formal)",
+        "correctSentence": ["Sehr", "geehrte", "Damen", "und", "Herren", "ich", "möchte", "gerne", "ein", "Doppelzimmer", "vom", "15", "bis", "20", "Juli", "reservieren"],
+        "translation": "Estimados señores, me gustaría reservar una habitación doble del 15 al 20 de julio",
+        "words": ["geehrte", "Sehr", "Damen", "und", "Herren", "reservieren", "ich", "möchte", "gerne", "ein", "Doppelzimmer", "vom", "15", "bis", "20", "Juli"],
+        "explanation": {
+          "grammar": [
+            "Formal: Sehr geehrte Damen und Herren",
+            "Fechas: vom [Datum] bis [Datum] [Monat]",
+            "Verbos modales para peticiones educadas: möchte gerne"
+          ]
+        }
+      },
+      {
+        "tense": "Nachfrage (Seguimiento)",
+        "correctSentence": ["Können", "Sie", "mir", "bitte", "sagen", "ob", "Frühstück", "im", "Preis", "inklusive", "ist"],
+        "translation": "¿Podría decirme si el desayuno está incluido en el precio?",
+        "words": ["Können", "Sie", "mir", "bitte", "sagen", "ob", "Frühstück", "im", "Preis", "inklusive", "ist"],
+        "explanation": {
+          "grammar": [
+            "ob + Nebensatz (si...)",
+            "im Preis inklusive (incluido en el precio)",
+            "Können Sie mir sagen (¿Puede decirme?)"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "Ich möchte ein Zimmer reservieren",
+        "Brauchen Sie eine Kreditkarte?",
+        "Das Zimmer kostet 80 Euro pro Nacht",
+        "Wir haben ein Zimmer frei",
+        "Können Sie mir bestätigen?",
+        "Vielen Dank für Ihre Reservierung"
+      ],
+      "fragen": [
+        "Ist das Frühstück inklusive?",
+        "Gibt es Parkmöglichkeiten?",
+        "Wie viel kostet un Einzelzimmer?",
+        "Kann ich stornieren?",
+        "Was sind die Check-in Zeiten?"
+      ]
+    },
+    "matching": [
+      {"q": "Formale Anrede", "a": "Sehr geehrte Damen und Herren"},
+      {"q": "Datum angeben", "a": "vom ... bis ..."},
+      {"q": "Zimmertypen", "a": "Einzelzimmer/Doppelzimmer"},
+      {"q": "Formaler Abschluss", "a": "Mit freundlichen Grüßen"},
+      {"q": "Preis fragen", "a": "Wie viel kostet...?"}
+    ],
+    "email_completo": {
+      "anrede": "Sehr geehrte Damen und Herren,",
+      "hauptteil": "Ich möchte gerne ein Doppelzimmer für zwei Personen vom 15. bis 20. Juli reservieren. Können Sie mir bitte den Preis pro Nacht mitteilen und sagen, ob Frühstück im Preis inklusive ist?",
+      "schluss": "Ich freue mich auf Ihre Antwort. Mit freundlichen Grüßen, [Ihr Name]"
+    }
+  },
+  {
+    "verb": "Restaurant buchen",
+    "type": "email",
+    "emoji": "🍽️",
+    "teoria": {
+      "situation": "Reserva de mesa en restaurante para ocasiones especiales o cena normal",
+      "estructura_tipica": [
+        "1. Saludo",
+        "2. Solicitud de reserva con detalles específicos",
+        "3. Especificación de hora y número de personas",
+        "4. Peticiones especiales (alergias, celebración)",
+        "5. Confirmación deseada"
+      ],
+      "expresiones_clave": [
+        "einen Tisch reservieren (reservar una mesa)",
+        "für ... Personen (para ... personas)",
+        "am ... um ... Uhr (el ... a las ...)",
+        "mit Blick auf... (con vista a...)",
+        "eine besondere Feier (una celebración especial)"
+      ],
+      "consejos": [
+        "Mencionar si es para una ocasión especial",
+        "Especificar alergias o dietas especiales",
+        "Pedir mesa en un área específica si es necesario",
+        "Confirmar la reserva un día antes"
+      ]
+    },
+    "situation": "Reserva de mesa en restaurante",
+    "tenses": [
+      {
+        "tense": "Tisch reservieren",
+        "correctSentence": ["Guten", "Tag", "ich", "möchte", "gerne", "einen", "Tisch", "für", "vier", "Personen", "am", "Samstag", "um", "20", "Uhr", "reservieren"],
+        "translation": "Buenos días, me gustaría reservar una mesa para cuatro personas el sábado a las 20:00",
+        "words": ["Tag", "Guten", "reservieren", "ich", "möchte", "gerne", "einen", "Tisch", "für", "vier", "Personen", "am", "Samstag", "um", "20", "Uhr"],
+        "explanation": {
+          "grammar": [
+            "am + Wochentag (am Samstag)",
+            "um + Uhrzeit (um 20 Uhr)",
+            "für + Akkusativ (für vier Personen)"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "Ich reserviere einen Tisch",
+        "Für wie viele Personen?",
+        "Um welche Uhrzeit?",
+        "Wir haben noch Plätze frei",
+        "Können Sie bestätigen?",
+        "Vielen Dank für Ihre Reservierung"
+      ],
+      "fragen": [
+        "Haben Sie einen Garten?",
+        "Gibt es vegetarische Gerichte?",
+        "Kann ich draußen sitzen?",
+        "Wie ist die Kleiderordnung?",
+        "Akzeptieren Sie Kreditkarten?"
+      ]
+    },
+    "matching": [
+      {"q": "Wochentag", "a": "am Montag/Dienstag..."},
+      {"q": "Uhrzeit", "a": "um ... Uhr"},
+      {"q": "Personenzahl", "a": "für ... Personen"},
+      {"q": "Spezielle Diät", "a": "mit vegetarischem Essen"},
+      {"q": "Tischlage", "a": "am Fenster/in der Ecke"}
+    ],
+    "email_completo": {
+      "anrede": "Guten Tag,",
+      "hauptteil": "Ich möchte gerne einen Tisch für sechs Personen am Freitag, den 15. Juni, um 19:30 Uhr reservieren. Wir feiern einen Geburtstag. Haben Sie einen Tisch in einer ruhigen Ecke? Eine Person ist vegetarisch.",
+      "schluss": "Bitte bestätigen Sie mir die Reservierung. Vielen Dank! Mit freundlichen Grüßen, [Ihr Name]"
+    }
+  },
+  {
+    "verb": "Termin vereinbaren",
+    "type": "email",
+    "emoji": "📅",
+    "teoria": {
+      "situation": "Concertar cita de trabajo, reunión profesional o consulta",
+      "estructura_tipica": [
+        "1. Saludo formal con nombre",
+        "2. Propósito de la reunión",
+        "3. Sugerencia de fecha/hora",
+        "4. Alternativas flexibles",
+        "5. Propuesta de lugar"
+      ],
+      "expresiones_clave": [
+        "sich treffen (reunirse)",
+        "einen Termin vereinbaren (concertar una cita)",
+        "vorschlagen + Akkusativ (sugerir)",
+        "passt es Ihnen? (¿le viene bien?)",
+        "in meinem Büro (en mi oficina)"
+      ],
+      "consejos": [
+        "Siempre ofrecer alternativas",
+        "Ser claro sobre el propósito",
+        "Confirmar lugar y hora exactos",
+        "Pedir confirmación por email"
+      ]
+    },
+    "situation": "Concertar cita de trabajo",
+    "tenses": [
+      {
+        "tense": "Termin vorschlagen",
+        "correctSentence": ["Sehr", "geehrter", "Herr", "Müller", "können", "wir", "uns", "nächste", "Woche", "treffen", "ich", "schlage", "Dienstag", "den", "15", "um", "14", "Uhr", "vor"],
+        "translation": "Estimado Sr. Müller, ¿podemos reunirnos la próxima semana? Sugiero el martes 15 a las 14:00",
+        "words": ["geehrter", "Sehr", "Herr", "Müller", "treffen", "können", "wir", "uns", "nächste", "Woche", "schlage", "ich", "Dienstag", "den", "15", "um", "14", "Uhr", "vor"],
+        "explanation": {
+          "grammar": [
+            "Sehr geehrter Herr [Name]",
+            "sich treffen (reflexiv)",
+            "vorschlagen + Akkusativ",
+            "um + Uhrzeit"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "Ich schlage einen Termin vor",
+        "Passt es Ihnen am Montag?",
+        "Wir können uns treffen",
+        "In meinem Büro oder Ihrem?",
+        "Um wie viel Uhr?",
+        "Ich bestätige den Termin"
+      ],
+      "alternativen": [
+        "oder möchten Sie lieber...",
+        "falls das nicht passt...",
+        "eine andere Möglichkeit wäre...",
+        "wie wäre es mit...?"
+      ]
+    },
+    "matching": [
+      {"q": "Formelle Anrede", "a": "Sehr geehrter Herr/Frau"},
+      {"q": "Terminvorschlag", "a": "Ich schlage ... vor"},
+      {"q": "Alternative fragen", "a": "oder möchten Sie lieber..."},
+      {"q": "Ort vorschlagen", "a": "in Ihrem Büro/am Bahnhof"},
+      {"q": "Bestätigung erbitten", "a": "Können Sie mir bestätigen?"}
+    ],
+    "email_completo": {
+      "anrede": "Sehr geehrte Frau Schmidt,",
+      "hauptteil": "ich würde mich gerne mit Ihnen über das Projekt XYZ unterhalten. Können wir uns nächste Woche treffen? Ich schlage Dienstag, den 15. Juni, um 10:00 Uhr vor, in Ihrem Büro. Falls das nicht passt, wäre Donnerstag um 14:00 Uhr auch möglich.",
+      "schluss": "Bitte lassen Sie mich wissen, welcher Termin Ihnen passt. Mit freundlichen Grüßen, [Ihr Name]"
+    }
+  },
+  {
+    "verb": "Beschwerde schreiben",
+    "type": "email",
+    "emoji": "⚠️",
+    "teoria": {
+      "situation": "Reclamar producto defectuoso o servicio deficiente",
+      "estructura_tipica": [
+        "1. Referencia al producto/servicio",
+        "2. Descripción clara del problema",
+        "3. Fecha de compra/incidente",
+        "4. Solución esperada",
+        "5. Plazo para respuesta"
+      ],
+      "expresiones_clave": [
+        "Leider... (Desafortunadamente...)",
+        "funktioniert nicht richtig (no funciona correctamente)",
+        "Ich möchte reklamieren (Quiero reclamar)",
+        "bitte senden Sie Ersatz (por favor envíe un reemplazo)",
+        "innerhalb von ... Tagen (dentro de ... días)"
+      ],
+      "consejos": [
+        "Ser claro pero educado",
+        "Incluir números de factura/referencia",
+        "Especificar solución deseada",
+        "Establecer plazo razonable para respuesta"
+      ]
+    },
+    "situation": "Reclamar producto defectuoso",
+    "tenses": [
+      {
+        "tense": "Problem beschreiben",
+        "correctSentence": ["Leider", "funktioniert", "das", "Gerät", "Modell", "XYZ", "nicht", "richtig", "es", "macht", "seltsame", "Geräusche", "und", "schaltet", "sich", "nach", "kurzer", "Zeit", "aus"],
+        "translation": "Desafortunadamente, el dispositivo modelo XYZ no funciona correctamente, hace ruidos extraños y se apaga después de poco tiempo",
+        "words": ["funktioniert", "Leider", "das", "Gerät", "Modell", "XYZ", "nicht", "richtig", "seltsame", "Geräusche", "es", "macht", "und", "schaltet", "sich", "nach", "kurzer", "Zeit", "aus"],
+        "explanation": {
+          "grammar": [
+            "Leider am Anfang (desafortunadamente)",
+            "funktionieren + nicht richtig",
+            "sich ausschalten (reflexiv, separable)",
+            "nach + Dativ (nach kurzer Zeit)"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "Das Produkt funktioniert nicht",
+        "Es gibt ein Problem",
+        "Ich möchte reklamieren",
+        "Können Sie es reparieren?",
+        "Bitte senden Sie Ersatz",
+        "Ich erwarte eine Lösung"
+      ],
+      "details": [
+        "Ich habe es am ... gekauft",
+        "Die Rechnungsnummer ist...",
+        "Seit dem Kauf...",
+        "Mehrere Versuche...",
+        "Keine Verbesserung..."
+      ]
+    },
+    "matching": [
+      {"q": "Problem einleiten", "a": "Leider..."},
+      {"q": "Defekt beschreiben", "a": "funktioniert nicht richtig"},
+      {"q": "Lösung fordern", "a": "Ich möchte reklamieren"},
+      {"q": "Alternative anbieten", "a": "oder"},
+      {"q": "Frist setzen", "a": "innerhalb von einer Woche"}
+    ],
+    "email_completo": {
+      "anrede": "Sehr geehrte Damen und Herren,",
+      "hauptteil": "leider funktioniert das Smartphone, das ich bei Ihnen am 5. Mai gekauft habe (Rechnungsnummer 12345), nicht richtig. Der Akku lädt nicht mehr und der Bildschirm zeigt Streifen. Ich möchte das Gerät reklamieren und bitte um Ersatz o Reparatur.",
+      "schluss": "Bitte antworten Sie mir innerhalb von 7 Tagen. Mit freundlichen Grüßen, [Ihr Name]"
+    }
+  },
+  {
+    "verb": "Einladung senden",
+    "type": "email",
+    "emoji": "🎉",
+    "teoria": {
+      "situation": "Invitar amigos, familiares o colegas a una fiesta o evento",
+      "estructura_tipica": [
+        "1. Saludo informal/formal según relación",
+        "2. Motivo de la invitación",
+        "3. Fecha, hora y lugar",
+        "4. Detalles prácticos (qué llevar, dress code)",
+        "5. Petición de confirmación"
+      ],
+      "expresiones_clave": [
+        "ich feiere... (celebro...)",
+        "würde mich freuen, wenn... (me alegraría si...)",
+        "bei mir zu Hause (en mi casa)",
+        "bitte bring ... mit (por favor trae...)",
+        "lass mich bitte wissen (déjame saber por favor)"
+      ],
+      "consejos": [
+        "Especificar hora de inicio y fin",
+        "Mencionar si es necesario confirmar asistencia",
+        "Incluir dirección exacta",
+        "Informar sobre opciones de transporte/estacionamiento"
+      ]
+    },
+    "situation": "Invitar amigos a una fiesta",
+    "tenses": [
+      {
+        "tense": "Einladung formulieren",
+        "correctSentence": ["Hallo", "Maria", "ich", "feiere", "meinen", "Geburtstag", "am", "10", "Juni", "um", "19", "Uhr", "und", "würde", "mich", "sehr", "freuen", "wenn", "du", "kommen", "könntest"],
+        "translation": "Hola María, celebro mi cumpleaños el 10 de junio a las 19:00 y me alegraría mucho si pudieras venir",
+        "words": ["Hallo", "Maria", "feiere", "ich", "meinen", "Geburtstag", "am", "10", "Juni", "um", "19", "Uhr", "würde", "mich", "sehr", "freuen", "und", "wenn", "du", "kommen", "könntest"],
+        "explanation": {
+          "grammar": [
+            "Informal: Hallo [Name]",
+            "feiern + Akkusativ",
+            "würde + infinitivo (Konditional)",
+            "wenn + Konjunktiv II (könntest)"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "Ich feiere meinen Geburtstag",
+        "Kommst du zur Party?",
+        "Es beginnt um 19 Uhr",
+        "Bei mir zu Hause",
+        "Bringe etwas mit",
+        "Ich freue mich auf dich"
+      ],
+      "details": [
+        "Die Adresse ist...",
+        "Parkplätze gibt es...",
+        "Mit Buslinie... erreichbar",
+        "Getränke bringe ich mit",
+        "Dresscode: casual/smart"
+      ]
+    },
+    "matching": [
+      {"q": "Informelle Anrede", "a": "Hallo [Name]"},
+      {"q": "Einladung aussprechen", "a": "würde mich freuen, wenn..."},
+      {"q": "Ort angeben", "a": "bei mir zu Hause"},
+      {"q": "Mitbringsel", "a": "bitte bring ... mit"},
+      {"q": "Bestätigung erbitten", "a": "lass mich bitte wissen"}
+    ],
+    "email_completo": {
+      "anrede": "Hallo liebe Freunde,",
+      "hauptteil": "ich feiere meinen 30. Geburtstag am Samstag, 10. Juni, ab 19:00 Uhr bei mir zu Hause (Musterstraße 123, Berlin). Es gibt Musik, Snacks und Getränke. Bitte bringt gute Laune mit!",
+      "schluss": "Ich würde mich sehr freuen, wenn ihr kommt. Bitte lasst mich bis zum 5. Juni wissen, ob ihr kommen könnt. Liebe Grüße, [Dein Name]"
+    }
+  },
+  {
+    "verb": "Praktikum bewerben",
+    "type": "email",
+    "emoji": "💼",
+    "teoria": {
+      "situation": "Solicitar prácticas profesionales o pasantías",
+      "estructura_tipica": [
+        "1. Saludo formal con nombre del destinatario",
+        "2. Referencia a la oferta específica",
+        "3. Breve presentación y motivación",
+        "4. Adjunto de CV y documentos",
+        "5. Disponibilidad para entrevista"
+      ],
+      "expresiones_clave": [
+        "sich bewerben um + Akkusativ (solicitar)",
+        "in Ihrer Anzeige (en su anuncio)",
+        "ich habe Erfahrung in... (tengo experiencia en...)",
+        "mein Studium schloss ich ab (terminé mis estudios)",
+        "ich interessiere mich für... (me interesa...)"
+      ],
+      "consejos": [
+        "Personalizar cada solicitud",
+        "Mencionar habilidades específicas relevantes",
+        "Adjuntar CV y carta de motivación",
+        "Seguir las instrucciones de la oferta"
+      ]
+    },
+    "situation": "Solicitar prácticas profesionales",
+    "tenses": [
+      {
+        "tense": "Interesse ausdrücken",
+        "correctSentence": ["Sehr", "geehrte", "Frau", "Schmidt", "ich", "bewerbe", "mich", "um", "das", "Praktikum", "in", "der", "Marketingabteilung", "das", "Sie", "in", "Ihrer", "Anzeige", "vom", "15", "Mai", "beschrieben", "haben"],
+        "translation": "Estimada Sra. Schmidt, solicito la práctica en el departamento de marketing que ha descrito en su anuncio del 15 de mayo",
+        "words": ["geehrte", "Sehr", "Frau", "Schmidt", "bewerbe", "ich", "mich", "um", "das", "Praktikum", "in", "der", "Marketingabteilung", "das", "Sie", "in", "Ihrer", "Anzeige", "vom", "15", "Mai", "beschrieben", "haben"],
+        "explanation": {
+          "grammar": [
+            "sich bewerben um + Akkusativ",
+            "Relativsatz: das Sie ... beschrieben haben",
+            "Perfekt para acciones completadas",
+            "vom + Datum (del...)"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "Ich bewerbe mich um die Stelle",
+        "Ich habe Erfahrung in...",
+        "Mein Studium schloss ich ab",
+        "Ich interessiere mich für...",
+        "Können wir ein Interview vereinbaren?",
+        "Ich freue mich auf Ihre Antwort"
+      ],
+      "qualifikationen": [
+        "Während meines Studiums...",
+        "In meiner bisherigen Tätigkeit...",
+        "Meine Stärken sind...",
+        "Besonders gefällt mir...",
+        "Ich kann beitragen..."
+      ]
+    },
+    "matching": [
+      {"q": "Formale Bewerbung", "a": "Sehr geehrte Frau/Herr"},
+      {"q": "Stelle beantragen", "a": "Ich bewerbe mich um..."},
+      {"q": "Qualifikationen", "a": "Ich habe Erfahrung in..."},
+      {"q": "Anhang erwähnen", "a": "...ist angehängt"},
+      {"q": "Interview anbieten", "a": "Für ein Gespräch stehe ich zur Verfügung"}
+    ],
+    "email_completo": {
+      "anrede": "Sehr geehrte Frau Schmidt,",
+      "hauptteil": "mit großem Interesse habe ich Ihre Praktikumsausschreibung für die Marketingabteilung gelesen und bewerbe mich um diese Stelle. Ich studiere im 5. Semester BWL und habe bereits Erfahrung in Social Media Marketing gesammelt. Besonders reizt mich die Möglichkeit, in Ihrem innovativen Team mitzuarbeiten.",
+      "schluss": "Meine vollständigen Bewerbungsunterlagen sind angehängt. Für ein Vorstellungsgespräch stehe ich gerne zur Verfügung. Mit freundlichen Grüßen, [Ihr Name]"
+    }
+  },
+  {
+    "verb": "Einladung absagen",
+    "type": "email",
+    "emoji": "🙅‍♂️",
+    "teoria": {
+      "situation": "Rechazar invitación de manera educada y amable",
+      "estructura_tipica": [
+        "1. Agradecimiento por la invitación",
+        "2. Expresión de decepción por no poder asistir",
+        "3. Breve explicación (opcional)",
+        "4. Deseo de éxito para el evento",
+        "5. Esperanza de futuras oportunidades"
+      ],
+      "expresiones_clave": [
+        "Vielen Dank für die Einladung (Muchas gracias por la invitación)",
+        "Leider kann ich nicht... (Desafortunadamente no puedo...)",
+        "Ich habe bereits andere Pläne (Ya tengo otros planes)",
+        "Vielleicht ein andermal (Quizás en otra ocasión)",
+        "Ich wünsche viel Spaß (Les deseo que se diviertan)"
+      ],
+      "consejos": [
+        "Ser agradecido aunque declines",
+        "No dar explicaciones demasiado detalladas",
+        "Mantener tono positivo",
+        "Dejar puerta abierta para el futuro"
+      ]
+    },
+    "situation": "Rechazar invitación amablemente",
+    "tenses": [
+      {
+        "tense": "Höflich absagen",
+        "correctSentence": ["Vielen", "Dank", "für", "die", "Einladung", "zu", "Ihrer", "Party", "leider", "kann", "ich", "nicht", "kommen", "weil", "ich", "bereits", "andere", "Pläne", "für", "dieses", "Wochenende", "habe"],
+        "translation": "Muchas gracias por la invitación a su fiesta, desafortunadamente no puedo ir porque ya tengo otros planes para este fin de semana",
+        "words": ["Dank", "Vielen", "für", "die", "Einladung", "zu", "Ihrer", "Party", "kann", "ich", "nicht", "kommen", "leider", "weil", "habe", "ich", "bereits", "andere", "Pläne", "für", "dieses", "Wochenende"],
+        "explanation": {
+          "grammar": [
+            "Vielen Dank für + Akkusativ",
+            "leider + Nebensatz",
+            "weil + Nebensatz",
+            "bereits (ya) enfatiza"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "Vielen Dank für die Einladung",
+        "Leider kann ich nicht",
+        "Ich habe schon Pläne",
+        "Vielleicht ein andermal",
+        "Melde dich bitte",
+        "Wir sehen uns bald"
+      ],
+      "alternativen": [
+        "Ich muss leider absagen",
+        "Es tut mir sehr leid",
+        "Eine andere Verpflichtung",
+        "Familientermin",
+        "Schon verabredet"
+      ]
+    },
+    "matching": [
+      {"q": "Dank ausdrücken", "a": "Vielen Dank für..."},
+      {"q": "Höflich absagen", "a": "Leider kann ich nicht"},
+      {"q": "Grund nennen", "a": "weil ich... habe"},
+      {"q": "Alternative vorschlagen", "a": "Vielleicht können wir..."},
+      {"q": "Gute Wünsche", "a": "Ich wünsche viel Spaß"}
+    ],
+    "email_completo": {
+      "anrede": "Hallo [Name],",
+      "hauptteil": "vielen Dank für die Einladung zu deiner Geburtstagsfeier am 10. Juni. Leider kann ich nicht kommen, da ich an diesem Wochenende meine Familie besuche. Es tut mir wirklich leid!",
+      "schluss": "Ich wünsche dir eine tolle Feier und hoffe, wir sehen uns bald wieder. Lass mich wissen, wie es war! Liebe Grüße, [Dein Name]"
+    }
+  },
+  {
+    "verb": "Tourismus-Info anfragen",
+    "type": "email",
+    "emoji": "🗺️",
+    "teoria": {
+      "situation": "Pedir información turística a oficinas de turismo o hoteles",
+      "estructura_tipica": [
+        "1. Saludo formal/informal según contexto",
+        "2. Anuncio de visita planeada",
+        "3. Preguntas específicas sobre atracciones",
+        "4. Consulta sobre precios y horarios",
+        "5. Agradecimiento anticipado"
+      ],
+      "expresiones_clave": [
+        "Ich plane einen Besuch (Planeo una visita)",
+        "welche Sehenswürdigkeiten (qué lugares de interés)",
+        "können Sie empfehlen? (¿puede recomendar?)",
+        "wie viel kostet der Eintritt? (¿cuánto cuesta la entrada?)",
+        "gibt es Ermäßigungen? (¿hay descuentos?)"
+      ],
+      "consejos": [
+        "Ser específico en las preguntas",
+        "Mencionar fechas de viaje si son relevantes",
+        "Preguntar por actividades según intereses",
+        "Solicitar folletos o mapas si están disponibles"
+      ]
+    },
+    "situation": "Pedir información turística",
+    "tenses": [
+      {
+        "tense": "Informationen erfragen",
+        "correctSentence": ["Guten", "Tag", "ich", "plane", "einen", "Besuch", "in", "Ihrer", "Stadt", "vom", "10", "bis", "15", "August", "und", "würde", "gerne", "wissen", "welche", "Sehenswürdigkeiten", "Sie", "für", "Familien", "empfehlen"],
+        "translation": "Buenos días, planeo una visita a su ciudad del 10 al 15 de agosto y me gustaría saber qué lugares de interés recomienda para familias",
+        "words": ["Tag", "Guten", "plane", "ich", "einen", "Besuch", "in", "Ihrer", "Stadt", "vom", "10", "bis", "15", "August", "würde", "gerne", "wissen", "und", "welche", "Sehenswürdigkeiten", "Sie", "für", "Familien", "empfehlen"],
+        "explanation": {
+          "grammar": [
+            "planen + Akkusativ",
+            "würde gerne + infinitivo (deseo educado)",
+            "Relativsatz: welche... Sie empfehlen",
+            "für + Akkusativ (para familias)"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "Ich plane einen Besuch",
+        "Welche Sehenswürdigkeiten gibt es?",
+        "Können Sie mir Informationen geben?",
+        "Wie viel kostet der Eintritt?",
+        "Gibt es Ermäßigungen?",
+        "Vielen Dank für Ihre Hilfe"
+      ],
+      "fragen": [
+        "Was ist besonders sehenswert?",
+        "Gibt es Führungen?",
+        "Wann sind Museen geöffnet?",
+        "Welche Aktivitäten für Kinder?",
+        "Empfehlen Sie bestimmte Restaurants?"
+      ]
+    },
+    "matching": [
+      {"q": "Reise planen", "a": "Ich plane einen Besuch"},
+      {"q": "Empfehlung erfragen", "a": "welche... Sie empfehlen"},
+      {"q": "Preis erfragen", "a": "wie viel kostet..."},
+      {"q": "Nach Ermäßigungen", "a": "ob es ... gibt"},
+      {"q": "Zeitplan", "a": "Wann öffnen...?"}
+    ],
+    "email_completo": {
+      "anrede": "Guten Tag,",
+      "hauptteil": "ich plane mit meiner Familie (zwei Erwachsene, zwei Kinder im Alter von 8 und 12 Jahren) einen Besuch in Ihrer Stadt vom 20. bis 25. Juli. Können Sie mir bitte Informationen über familienfreundliche Sehenswürdigkeiten senden? Besonders interessieren uns Museen und Aktivitäten für Kinder.",
+      "schluss": "Vielen Dank im Voraus für Ihre Hilfe! Mit freundlichen Grüßen, [Ihr Name]"
+    }
+  },
+  {
+    "verb": "Mietprobleme melden",
+    "type": "email",
+    "emoji": "🏠",
+    "teoria": {
+      "situation": "Reportar problemas en el apartamento alquiler al propietario o administrador",
+      "estructura_tipica": [
+        "1. Saludo formal con nombre",
+        "2. Descripción clara del problema",
+        "3. Ubicación exacta en la vivienda",
+        "4. Solicitud de reparación con sugerencia de fecha",
+        "5. Agradecimiento por la atención"
+      ],
+      "expresiones_clave": [
+        "Es gibt ein Problem mit... (Hay un problema con...)",
+        "funktioniert nicht (no funciona)",
+        "undicht (tiene fugas)",
+        "kaputt (roto)",
+        "Könnten Sie... vorbeischicken? (¿Podría enviar...?)"
+      ],
+      "consejos": [
+        "Ser específico sobre el problema",
+        "Mencionar desde cuándo ocurre",
+        "Sugerir horarios convenientes para reparación",
+        "Adjuntar fotos si es posible"
+      ]
+    },
+    "situation": "Reportar problemas en el alquiler",
+    "tenses": [
+      {
+        "tense": "Problem melden",
+        "correctSentence": ["Sehr", "geehrter", "Herr", "Meier", "in", "meiner", "Wohnung", "in", "der", "Musterstraße", "123", "gibt", "es", "ein", "Problem", "mit", "der", "Heizung", "im", "Badezimmer", "sie", "funktioniert", "seit", "gestern", "nicht", "mehr"],
+        "translation": "Estimado Sr. Meier, en mi apartamento en Musterstraße 123 hay un problema con la calefacción del baño, no funciona desde ayer",
+        "words": ["geehrter", "Sehr", "Herr", "Meier", "gibt", "es", "in", "meiner", "Wohnung", "in", "der", "Musterstraße", "123", "ein", "Problem", "mit", "der", "Heizung", "im", "Badezimmer", "funktioniert", "sie", "seit", "gestern", "nicht", "mehr"],
+        "explanation": {
+          "grammar": [
+            "es gibt + Akkusativ (hay)",
+            "mit + Dativ (con la calefacción)",
+            "funktionieren + nicht mehr (ya no funciona)",
+            "seit + Zeitangabe (desde...)"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "Es gibt ein Problem",
+        "Die Heizung funktioniert nicht",
+        "Können Sie es reparieren?",
+        "Wann kommt der Handwerker?",
+        "Am besten wäre...",
+        "Vielen Dank für Ihre Hilfe"
+      ],
+      "probleme": [
+        "Das Fenster ist undicht",
+        "Die Spüle ist verstopft",
+        "Eine Lampe ist kaputt",
+        "Die Tür klemmt",
+        "Wasser läuft nicht ab"
+      ]
+    },
+    "matching": [
+      {"q": "Problem melden", "a": "Es gibt ein Problem mit..."},
+      {"q": "Reparatur anfordern", "a": "Könnten Sie... vorbeischicken?"},
+      {"q": "Zeitvorschlag", "a": "am besten wäre..."},
+      {"q": "Tageszeiten", "a": "vormittags/nachmittags"},
+      {"q": "Dringlichkeit", "a": "sobald wie möglich"}
+    ],
+    "email_completo": {
+      "anrede": "Sehr geehrter Herr Meier,",
+      "hauptteil": "in meiner Wohnung (Musterstraße 123, 3. Stock) gibt es ein Problem mit der Heizung im Badezimmer. Sie funktioniert seit gestern nicht mehr. Könnten Sie bitte einen Handwerker vorbeischicken? Am besten wäre ein Termin vormittags zwischen 9 und 12 Uhr.",
+      "schluss": "Vielen Dank für Ihre Hilfe! Mit freundlichen Grüßen, [Ihr Name]"
+    }
+  },
+  {
+    "verb": "Feedback geben",
+    "type": "email",
+    "emoji": "📝",
+    "teoria": {
+      "situation": "Dar retroalimentación positiva sobre un servicio, curso o producto",
+      "estructura_tipica": [
+        "1. Saludo adecuado",
+        "2. Expresión de agradecimiento",
+        "3. Descripción de aspectos positivos",
+        "4. Sugerencias constructivas (opcional)",
+        "5. Cierre positivo"
+      ],
+      "expresiones_clave": [
+        "Ich möchte mich bedanken für... (Quiero agradecer por...)",
+        "war sehr hilfreich (fue muy útil)",
+        "hat mir sehr gefallen (me gustó mucho)",
+        "Für die Zukunft würde ich... (Para el futuro yo...)",
+        "Das würde helfen (Eso ayudaría)"
+      ],
+      "consejos": [
+        "Ser específico en los elogios",
+        "Mencionar aspectos concretos que se valoraron",
+        "Si se dan sugerencias, que sean constructivas",
+        "Mantener tono positivo y agradecido"
+      ]
+    },
+    "situation": "Dar retroalimentación sobre servicio",
+    "tenses": [
+      {
+        "tense": "Positives Feedback",
+        "correctSentence": ["Ich", "möchte", "mich", "herzlich", "für", "den", "ausgezeichneten", "Deutschkurs", "bedanken", "der", "Unterricht", "war", "sehr", "hilfreich", "und", "die", "Lehrerin", "hat", "alles", "sehr", "verständlich", "erklärt"],
+        "translation": "Quiero agradecer cordialmente por el excelente curso de alemán, las clases fueron muy útiles y la profesora explicó todo de manera muy comprensible",
+        "words": ["möchte", "Ich", "mich", "herzlich", "für", "den", "ausgezeichneten", "Deutschkurs", "bedanken", "war", "der", "Unterricht", "sehr", "hilfreich", "und", "die", "Lehrerin", "hat", "alles", "sehr", "verständlich", "erklärt"],
+        "explanation": {
+          "grammar": [
+            "sich bedanken für + Akkusativ",
+            "Adjektivdeklination: den ausgezeichneten Kurs",
+            "war (Präteritum de sein)",
+            "hat erklärt (Perfekt de erklären)"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "Ich bedanke mich für den Kurs",
+        "Der Unterricht war super",
+        "Die Lehrerin war sehr gut",
+        "Ich habe viel gelernt",
+        "Für die Zukunft würde ich...",
+        "Das würde helfen"
+      ],
+      "positives": [
+        "sehr professionell",
+        "exzellente Organisation",
+        "motivierende Atmosphäre",
+        "praktische Übungen",
+        "klare Erklärungen"
+      ]
+    },
+    "matching": [
+      {"q": "Dank ausdrücken", "a": "Ich möchte mich bedanken für..."},
+      {"q": "Positives Feedback", "a": "war sehr hilfreich"},
+      {"q": "Vorschlag machen", "a": "Für die Zukunft würde ich..."},
+      {"q": "Ziel nennen", "a": "das würde helfen... zu..."},
+      {"q": "Weiterempfehlen", "a": "Ich werde den Kurs weiterempfehlen"}
+    ],
+    "email_completo": {
+      "anrede": "Sehr geehrte Frau Schmidt,",
+      "hauptteil": "ich möchte mich herzlich für den ausgezeichneten Deutschkurs B1 bedanken, den ich von Januar bis März bei Ihnen besucht habe. Die Unterrichtsmethoden waren sehr effektiv und die Atmosphäre im Kurs motivierend. Besonders hilfreich waren die praktischen Sprechübungen.",
+      "schluss": "Ich habe viel gelernt und werde den Kurs gerne weiterempfehlen. Mit freundlichen Grüßen, [Ihr Name]"
+    }
+  }
+]

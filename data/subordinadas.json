@@ -1,0 +1,642 @@
+[
+  {
+    "verb": "TEORÍA GENERAL",
+    "type": "theory",
+    "emoji": "📘",
+    "theory": {
+      "title": "Oraciones Subordinadas en Alemán (Nebensätze)",
+      "content": [
+        "Las oraciones subordinadas dependen de una oración principal (Hauptsatz) y no pueden existir solas.",
+        "**Características principales:**",
+        "1. **Verbo conjugado va AL FINAL** de la subordinada.",
+        "2. **Conjunciones subordinantes** introducen la oración: weil, dass, wenn, ob, obwohl, damit, indem...",
+        "3. **Inversión** cuando la subordinada va primero: verbo en posición 1 de la oración principal.",
+        "4. **Coma obligatoria** entre Hauptsatz y Nebensatz.",
+        "**Tipos principales:** causales (weil), finales (damit), concesivas (obwohl), condicionales (wenn), relativas (der/die/das)."
+      ],
+      "tips": [
+        "💡 **Regla de oro:** Si la frase empieza con weil/dass/wenn → verbo al FINAL.",
+        "💡 **Inversión automática:** Cuando la subordinada va primero: Nebensatz, + Verbo + Sujeto + ...",
+        "💡 **Ob vs Wenn:** 'ob' = si (pregunta indirecta), 'wenn' = si (condición) o cuando (tiempo).",
+        "💡 **Coma siempre:** Hauptsatz, + Nebensatz o Nebensatz, + Hauptsatz.",
+        "💡 **Relativas:** El pronombre relativo (der/die/das) concuerda con el antecedente en género y número.",
+        "💡 **Perfekt en subordinadas:** Participio + auxiliar AL FINAL: ...weil ich geschlafen habe."
+      ]
+    }
+  },
+  {
+    "verb": "weil (porque) - Kausalsatz",
+    "type": "subordinate",
+    "emoji": "🔗",
+    "tip": "Introduce la causa o razón. Siempre verbo al final. Equivalente a 'because' en inglés.",
+    "tenses": [
+      {
+        "tense": "Präsens mit weil",
+        "correctSentence": ["Ich", "lerne", "Deutsch", "weil", "ich", "nach", "Deutschland", "fahren", "möchte"],
+        "translation": "Aprendo alemán porque quiero ir a Alemania",
+        "words": ["lerne", "Ich", "Deutsch", "weil", "fahren", "ich", "nach", "Deutschland", "möchte"],
+        "explanation": {
+          "grammar": [
+            "weil introduce la CAUSA o razón",
+            "Verbo conjugado va al FINAL de la subordinada",
+            "Estructura: Hauptsatz, weil + Nebensatz"
+          ]
+        }
+      },
+      {
+        "tense": "Perfekt mit weil",
+        "correctSentence": ["Er", "ist", "zu", "spät", "gekommen", "weil", "der", "Zug", "Verspätung", "hatte"],
+        "translation": "Llegó tarde porque el tren tenía retraso",
+        "words": ["gekommen", "ist", "zu", "spät", "Er", "weil", "hatte", "der", "Zug", "Verspätung"],
+        "explanation": {
+          "grammar": [
+            "En subordinada con Perfekt: Participio + auxiliar AL FINAL",
+            "Orden: ...weil der Zug Verspätung gehabt hat"
+          ]
+        }
+      },
+      {
+        "tense": "Modalverben mit weil",
+        "correctSentence": ["Wir", "müssen", "früh", "aufstehen", "weil", "wir", "einen", "Termin", "haben"],
+        "translation": "Tenemos que levantarnos temprano porque tenemos una cita",
+        "words": ["aufstehen", "müssen", "früh", "Wir", "weil", "haben", "wir", "einen", "Termin"],
+        "explanation": {
+          "grammar": [
+            "Con verbos modales: Infinitivo + Modalverb AL FINAL",
+            "Orden: ...weil wir einen Termin haben müssen"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "Ich lerne Deutsch, weil ich nach Deutschland fahren möchte",
+        "Du lernst Deutsch, weil du nach Deutschland fahren möchtest",
+        "Er/sie/es lernt Deutsch, weil er/sie/es nach Deutschland fahren möchte",
+        "Wir lernen Deutsch, weil wir nach Deutschland fahren möchten",
+        "Ihr lernt Deutsch, weil ihr nach Deutschland fahren möchtet",
+        "Sie/Sie lernen Deutsch, weil sie/Sie nach Deutschland fahren möchten"
+      ],
+      "perfekt": [
+        "Ich habe geschlafen, weil ich müde war",
+        "Du hast geschlafen, weil du müde warst",
+        "Er/sie/es hat geschlafen, porque él/ella/ello estaba cansado/a",
+        "Wir haben geschlafen, weil wir müde waren",
+        "Ihr habt geschlafen, weil ihr müde wart",
+        "Sie/Sie haben geschlafen, weil sie/Sie müde waren"
+      ],
+      "futur": [
+        "Ich werde zu Hause bleiben, weil es regnen wird",
+        "Du wirst zu Hause bleiben, weil es regnen wird",
+        "Er/sie/es wird zu Hause bleiben, weil es regnen wird",
+        "Wir werden zu Hause bleiben, weil es regnen wird",
+        "Ihr werdet zu Hause bleiben, weil es regnen wird",
+        "Sie/Sie werden zu Hause bleiben, weil es regnen wird"
+      ]
+    },
+    "matching": [
+      {"q": "weil introduce", "a": "una oración causal (razón)"},
+      {"q": "Posición del verbo con weil", "a": "SIEMPRE al final"},
+      {"q": "Estructura típica", "a": "Hauptsatz, weil + Nebensatz"},
+      {"q": "Ejemplo común", "a": "Ich bleibe, weil ich müde bin"}
+    ]
+  },
+  {
+    "verb": "dass (que) - dass-Satz",
+    "type": "subordinate",
+    "emoji": "💬",
+    "tip": "Introduce una oración subordinada objetiva. Después de verbos de pensamiento, percepción o sentimiento.",
+    "tenses": [
+      {
+        "tense": "Aussagesatz con dass",
+        "correctSentence": ["Ich", "glaube", "dass", "das", "eine", "gute", "Idee", "ist"],
+        "translation": "Creo que es una buena idea",
+        "words": ["glaube", "Ich", "dass", "das", "eine", "gute", "Idee", "ist"],
+        "explanation": {
+          "grammar": [
+            "dass introduce una oración subordinada OBJETIVA",
+            "Se usa después de verbos de pensamiento, sentimiento, percepción",
+            "Verbo conjugado va al FINAL"
+          ]
+        }
+      },
+      {
+        "tense": "Perfekt con dass",
+        "correctSentence": ["Ich", "habe", "gehört", "dass", "du", "eine", "neue", "Arbeit", "gefunden", "hast"],
+        "translation": "He oído que has encontrado un trabajo nuevo",
+        "words": ["gehört", "habe", "Ich", "dass", "gefunden", "du", "eine", "neue", "Arbeit", "hast"],
+        "explanation": {
+          "grammar": [
+            "En dass-Satz con Perfekt: participio + auxiliar AL FINAL",
+            "Orden: ...dass du eine neue Arbeit gefunden hast"
+          ]
+        }
+      },
+      {
+        "tense": "Futur con dass",
+        "correctSentence": ["Ich", "hoffe", "dass", "du", "kommen", "wirst"],
+        "translation": "Espero que vengas",
+        "words": ["hoffe", "Ich", "dass", "kommen", "du", "wirst"],
+        "explanation": {
+          "grammar": [
+            "En dass-Satz con Futur: infinitivo + werden AL FINAL",
+            "Orden: ...dass du kommen wirst"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "Ich weiß, dass du Deutsch lernst",
+        "Du weißt, dass ich Deutsch lerne",
+        "Er/sie/es weiß, dass wir Deutsch lernen",
+        "Wir wissen, dass ihr Deutsch lernt",
+        "Ihr wisst, dass sie Deutsch lernen",
+        "Sie/Sie wissen, dass ich Deutsch lerne"
+      ],
+      "perfekt": [
+        "Ich habe gehört, dass du gewonnen hast",
+        "Du hast gehört, dass ich gewonnen habe",
+        "Er/sie/es hat gehört, dass wir gewonnen haben",
+        "Wir haben gehört, dass ihr gewonnen habt",
+        "Ihr habt gehört, dass sie gewonnen haben",
+        "Sie/Sie haben gehört, dass ich gewonnen habe"
+      ],
+      "futur": [
+        "Ich hoffe, dass du kommen wirst",
+        "Du hoffst, dass ich kommen werde",
+        "Er/sie/es hofft, dass wir kommen werden",
+        "Wir hoffen, dass ihr kommen werdet",
+        "Ihr hofft, dass sie kommen werden",
+        "Sie/Sie hoffen, dass ich kommen werde"
+      ]
+    },
+    "matching": [
+      {"q": "dass se usa después de", "a": "verbos de pensar/sentir"},
+      {"q": "Posición del verbo", "a": "siempre al final con dass"},
+      {"q": "Coma antes de dass", "a": "siempre se recomienda"},
+      {"q": "Verbos comunes + dass", "a": "glauben, denken, wissen, hoffen"}
+    ]
+  },
+  {
+    "verb": "wenn (si/cuando) - Konditional/Temporal",
+    "type": "subordinate",
+    "emoji": "⏰",
+    "tip": "Tiene dos usos: 1) condicional (si), 2) temporal (cuando). Atención: no confundir con 'ob'.",
+    "tenses": [
+      {
+        "tense": "Konditionalsatz (condición real)",
+        "correctSentence": ["Wenn", "es", "regnet", "nehmen", "wir", "einen", "Regenschirm"],
+        "translation": "Si llueve, tomamos un paraguas",
+        "words": ["regnet", "es", "Wenn", "nehmen", "wir", "einen", "Regenschirm"],
+        "explanation": {
+          "grammar": [
+            "wenn = si (condición real/probable)",
+            "Puede iniciar la oración (inversión)",
+            "Si wenn inicia, verbo va inmediatamente después"
+          ]
+        }
+      },
+      {
+        "tense": "Temporalsatz (presente)",
+        "correctSentence": ["Ich", "freue", "mich", "wenn", "ich", "Freunde", "treffe"],
+        "translation": "Me alegro cuando me encuentro con amigos",
+        "words": ["mich", "freue", "Ich", "wenn", "treffe", "ich", "Freunde"],
+        "explanation": {
+          "grammar": [
+            "wenn = cuando (acción repetida/habitual)",
+            "Misma estructura que weil/dass",
+            "Verbo al final de la subordinada"
+          ]
+        }
+      },
+      {
+        "tense": "Temporalsatz (futuro)",
+        "correctSentence": ["Wenn", "du", "kommst", "werde", "ich", "dich", "abholen"],
+        "translation": "Cuando vengas, te recogeré",
+        "words": ["kommst", "du", "Wenn", "werde", "ich", "dich", "abholen"],
+        "explanation": {
+          "grammar": [
+            "Para futuro, Presente con wenn + Futur I en Hauptsatz",
+            "Presente con valor de futuro en subordinada"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "Wenn ich Zeit habe, lese ich ein Buch",
+        "Wenn du Zeit hast, liest du ein Buch",
+        "Wenn er/sie/es Zeit hat, liest er/sie/es ein Buch",
+        "Wenn wir Zeit haben, lesen wir ein Buch",
+        "Wenn ihr Zeit habt, lest ihr ein Buch",
+        "Wenn sie/Sie Zeit haben, lesen sie/Sie ein Buch"
+      ],
+      "perfekt": [
+        "Wenn ich gegessen habe, gehe ich spazieren",
+        "Wenn du gegessen hast, gehst du spazieren",
+        "Wenn er/sie/es gegessen hat, geht er/sie/es spazieren",
+        "Wenn wir gegessen haben, gehen wir spazieren",
+        "Wenn ihr gegessen habt, geht ihr spazieren",
+        "Wenn sie/Sie gegessen haben, gehen sie/Sie spazieren"
+      ],
+      "futur": [
+        "Wenn ich Zeit habe, werde ich lesen",
+        "Wenn du Zeit hast, wirst du lesen",
+        "Wenn er/sie/es Zeit hat, wird er/sie/es lesen",
+        "Wenn wir Zeit haben, werden wir lesen",
+        "Wenn ihr Zeit habt, werdet ihr lesen",
+        "Wenn sie/Sie Zeit haben, werden sie/Sie lesen"
+      ]
+    },
+    "matching": [
+      {"q": "wenn konditional", "a": "significa 'si' (condición real)"},
+      {"q": "wenn temporal", "a": "significa 'cuando'"},
+      {"q": "Wenn al inicio", "a": "inversión en Hauptsatz"},
+      {"q": "Struktur", "a": "wie bei weil/dass"}
+    ]
+  },
+  {
+    "verb": "ob (si) - Indirekte Frage",
+    "type": "subordinate",
+    "emoji": "❓",
+    "tip": "¡Atención! 'ob' = si (para preguntas indirectas). No confundir con 'wenn' = si (condición).",
+    "tenses": [
+      {
+        "tense": "Indirekte Ja/Nein-Frage",
+        "correctSentence": ["Ich", "frage", "dich", "ob", "du", "hungrig", "bist"],
+        "translation": "Te pregunto si tienes hambre",
+        "words": ["frage", "Ich", "dich", "ob", "bist", "du", "hungrig"],
+        "explanation": {
+          "grammar": [
+            "ob = si (para preguntas indirectas sí/no)",
+            "Reemplaza a la partícula interrogativa en preguntas directas",
+            "Verbo al final como en otras subordinadas"
+          ]
+        }
+      },
+      {
+        "tense": "ob nach Verben des Wissens",
+        "correctSentence": ["Ich", "weiß", "nicht", "ob", "er", "kommt"],
+        "translation": "No sé si viene",
+        "words": ["weiß", "Ich", "nicht", "ob", "kommt", "er"],
+        "explanation": {
+          "grammar": [
+            "Después de wissen, fragen, verstehen + ob",
+            "Nie use 'wenn' para preguntas indirectas",
+            "Siempre 'ob' para si (interrogativo)"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "Ich frage, ob du kommst",
+        "Du fragst, ob ich komme",
+        "Er/sie/es fragt, ob wir kommen",
+        "Wir fragen, ob ihr kommt",
+        "Ihr fragt, ob sie kommen",
+        "Sie/Sie fragen, ob ich komme"
+      ],
+      "perfekt": [
+        "Ich weiß nicht, ob er gekommen ist",
+        "Du weißt nicht, ob ich gekommen bin",
+        "Er/sie/es weiß not, ob wir gekommen sind",
+        "Wir wissen nicht, ob ihr gekommen seid",
+        "Ihr wisst nicht, ob sie gekommen sind",
+        "Sie/Sie wissen nicht, ob ich gekommen bin"
+      ],
+      "futur": [
+        "Ich frage mich, ob es regnen wird",
+        "Du fragst dich, ob es regnen wird",
+        "Er/sie/es fragt sich, ob es regnen wird",
+        "Wir fragen uns, ob es regnen wird",
+        "Ihr fragt euch, ob es regnen wird",
+        "Sie/Sie fragen sich, ob es regnen wird"
+      ]
+    },
+    "matching": [
+      {"q": "ob se usa para", "a": "preguntas indirectas sí/no"},
+      {"q": "Diferencia ob/wenn", "a": "ob = si (pregunta), wenn = si (condición)"},
+      {"q": "Verbos comunes + ob", "a": "fragen, wissen, verstehen"},
+      {"q": "Estructura", "a": "Hauptsatz, ob + Nebensatz"}
+    ]
+  },
+  {
+    "verb": "obwohl (aunque) - Konzessivsatz",
+    "type": "subordinate",
+    "emoji": "🔄",
+    "tip": "Expresa una concesión (algo contrario a lo esperado). Equivalente a 'although' en inglés.",
+    "tenses": [
+      {
+        "tense": "Gegenüberstellung",
+        "correctSentence": ["Obwohl", "es", "regnet", "gehe", "ich", "spazieren"],
+        "translation": "Aunque llueve, voy a pasear",
+        "words": ["regnet", "es", "Obwohl", "spazieren", "gehe", "ich"],
+        "explanation": {
+          "grammar": [
+            "obwohl introduce una CONCESIÓN (contraexpectativa)",
+            "Expresa algo inesperado o contrario a lo lógico",
+            "Misma estructura que weil/wenn"
+          ]
+        }
+      },
+      {
+        "tense": "Perfekt mit obwohl",
+        "correctSentence": ["Obwohl", "er", "krank", "war", "ist", "er", "zur", "Arbeit", "gegangen"],
+        "translation": "Aunque estaba enfermo, fue a trabajar",
+        "words": ["war", "er", "krank", "Obwohl", "ist", "er", "zur", "Arbeit", "gegangen"],
+        "explanation": {
+          "grammar": [
+            "Con obwohl + Perfekt: participio + auxiliar AL FINAL",
+            "Puede ir al inicio o después del Hauptsatz"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "Obwohl es regnet, gehe ich spazieren",
+        "Obwohl du müde bist, arbeitest du weiter",
+        "Obwohl er/sie/es krank ist, kommt er/sie/es",
+        "Obwohl wir wenig Zeit haben, helfen wir",
+        "Obwohl ihr müde seid, bleibt ihr",
+        "Obwohl sie/Sie beschäftigt sind, antworten sie/Sie"
+      ],
+      "perfekt": [
+        "Obwohl ich wenig geschlafen habe, bin ich fit",
+        "Obwohl du wenig geschlafen hast, bist du fit",
+        "Obwohl er/sie/es wenig geschlafen hat, ist er/sie/es fit",
+        "Obwohl wir wenig geschlafen haben, sind wir fit",
+        "Obwohl ihr wenig geschlafen habt, seid ihr fit",
+        "Obwohl sie/Sie wenig geschlafen haben, sind sie/Sie fit"
+      ],
+      "futur": [
+        "Obwohl ich müde sein werde, werde ich kommen",
+        "Obwohl du müde sein wirst, wirst du komen",
+        "Obwohl er/sie/es müde sein wird, wird er/sie/es kommen",
+        "Obwohl wir müde sein werden, werden wir kommen",
+        "Obwohl ihr müde sein werdet, werdet ihr kommen",
+        "Obwohl sie/Sie müde sein werden, werden sie/Sie kommen"
+      ]
+    },
+    "matching": [
+      {"q": "obwohl significa", "a": "aunque (concesión)"},
+      {"q": "Expresa", "a": "contraexpectativa"},
+      {"q": "Estructura", "a": "igual que weil/dass"},
+      {"q": "Sinónimo común", "a": "trotzdem (adverbio)"}
+    ]
+  },
+  {
+    "verb": "damit (para que) - Finalsatz",
+    "type": "subordinate",
+    "emoji": "🎯",
+    "tip": "Expresa finalidad o propósito. Casi siempre lleva un verbo modal en la subordinada.",
+    "tenses": [
+      {
+        "tense": "Finalidad con damit",
+        "correctSentence": ["Ich", "lerne", "Deutsch", "damit", "ich", "in", "Deutschland", "arbeiten", "kann"],
+        "translation": "Aprendo alemán para poder trabajar en Alemania",
+        "words": ["lerne", "Ich", "Deutsch", "damit", "arbeiten", "ich", "in", "Deutschland", "kann"],
+        "explanation": {
+          "grammar": [
+            "damit = para que (finalidad/propósito)",
+            "Siempre con verbo modal o Konjunktiv I",
+            "Verbo (modal) al FINAL de la subordinada"
+          ]
+        }
+      },
+      {
+        "tense": "damit con sollen",
+        "correctSentence": ["Ich", "sage", "es", "dir", "damit", "du", "es", "weißt"],
+        "translation": "Te lo digo para que lo sepas",
+        "words": ["sage", "Ich", "es", "dir", "damit", "weißt", "du", "es"],
+        "explanation": {
+          "grammar": [
+            "A menudo con sollen o wissen en subordinada",
+            "Alternativa: um...zu + infinitivo (para + infinitivo)"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "Ich lerne Deutsch, damit ich in Deutschland arbeiten kann",
+        "Du lernst Deutsch, damit du in Deutschland arbeiten kannst",
+        "Er/sie/es lernt Deutsch, damit er/sie/es in Deutschland arbeiten kann",
+        "Wir lernen Deutsch, damit wir in Deutschland arbeiten können",
+        "Ihr lernt Deutsch, damit ihr in Deutschland arbeiten könnt",
+        "Sie/Sie lernen Deutsch, damit sie/Sie in Deutschland arbeiten können"
+      ],
+      "perfekt": [
+        "Ich habe gespart, damit ich reisen kann",
+        "Du hast gespart, damit du reisen kannst",
+        "Er/sie/es hat gespart, damit er/sie/es reisen kann",
+        "Wir haben gespart, damit wir reisen können",
+        "Ihr habt gespart, damit ihr reisen könnt",
+        "Sie/Sie haben gespart, damit sie/Sie reisen können"
+      ],
+      "futur": [
+        "Ich werde lernen, damit ich die Prüfung bestehen kann",
+        "Du wirst lernen, damit du die Prüfung bestehen kannst",
+        "Er/sie/es wird lernen, damit er/sie/es die Prüfung bestehen kann",
+        "Wir werden lernen, damit wir die Prüfung bestehen können",
+        "Ihr werdet lernen, damit ihr die Prüfung bestehen könnt",
+        "Sie/Sie werden lernen, damit sie/Sie die Prüfung bestehen können"
+      ]
+    },
+    "matching": [
+      {"q": "damit significa", "a": "para que (finalidad)"},
+      {"q": "Siempre lleva", "a": "verbo modal en subordinada"},
+      {"q": "Alternativa a damit", "a": "um...zu + infinitivo"},
+      {"q": "Ejemplo típico", "a": "Ich spare, damit ich reisen kann"}
+    ]
+  },
+  {
+    "verb": "Relativsätze (Oraciones relativas)",
+    "type": "subordinate",
+    "emoji": "🔍",
+    "tip": "Pronombres relativos: der (masc), die (fem/plur), das (neutro). ¡Verbo SIEMPRE al final!",
+    "tenses": [
+      {
+        "tense": "Relativsatz básico",
+        "correctSentence": ["Das", "ist", "der", "Mann", "der", "mir", "geholfen", "hat"],
+        "translation": "Ese es el hombre que me ayudó",
+        "words": ["ist", "Das", "der", "Mann", "der", "hat", "mir", "geholfen"],
+        "explanation": {
+          "grammar": [
+            "Relativpronomen concuerda en género/número con antecedente",
+            "der (masc), die (fem/plur), das (neutro)",
+            "Verbo va al FINAL de la relativa"
+          ]
+        }
+      },
+      {
+        "tense": "Relativsatz mit Präposition",
+        "correctSentence": ["Das", "ist", "die", "Frau", "mit", "der", "ich", "zusammenarbeite"],
+        "translation": "Esa es la mujer con la que trabajo",
+        "words": ["ist", "Das", "die", "Frau", "mit", "der", "zusammenarbeite", "ich"],
+        "explanation": {
+          "grammar": [
+            "Preposición + Relativpronomen (mit der, für den, etc.)",
+            "Preposición determina el caso del pronombre",
+            "Verbo al final como siempre"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "Das ist der Mann, der Deutsch spricht",
+        "Das ist die Frau, die Deutsch spricht",
+        "Das ist das Kind, das Deutsch spricht",
+        "Das sind die Männer, die Deutsch sprechen",
+        "Das sind die Frauen, die Deutsch sprechen",
+        "Das sind die Kinder, die Deutsch sprechen"
+      ],
+      "perfekt": [
+        "Das ist der Mann, der mir geholfen hat",
+        "Das ist die Frau, die mir geholfen hat",
+        "Das ist das Kind, das mir geholfen hat",
+        "Das sind die Männer, die mir geholfen haben",
+        "Das sind die Frauen, die mir geholfen haben",
+        "Das sind die Kinder, die mir geholfen haben"
+      ],
+      "futur": [
+        "Das ist der Mann, der kommen wird",
+        "Das ist die Frau, die kommen wird",
+        "Das ist das Kind, das come será",
+        "Das sind die Männer, die kommen werden",
+        "Das sind die Frauen, die kommen werden",
+        "Das sind die Kinder, die kommen werden"
+      ]
+    },
+    "matching": [
+      {"q": "Relativpronomen masculino", "a": "der"},
+      {"q": "Relativpronomen femenino", "a": "die"},
+      {"q": "Relativpronomen neutro", "a": "das"},
+      {"q": "Relativpronomen plural", "a": "die"},
+      {"q": "Verbo en Relativsatz", "a": "SIEMPRE al final"},
+      {"q": "Con preposición", "a": "Präp + Relativpronomen"}
+    ]
+  },
+  {
+    "verb": "indem (al/de modo que) - Modalsatz",
+    "type": "subordinate",
+    "emoji": "🛠️",
+    "tip": "Describe el método o manera de hacer algo. Equivalente a 'by + -ing' en inglés.",
+    "tenses": [
+      {
+        "tense": "Art und Weise",
+        "correctSentence": ["Ich", "lerne", "Deutsch", "indem", "ich", "viele", "Bücher", "lese"],
+        "translation": "Aprendo alemán leyendo muchos libros",
+        "words": ["lerne", "Ich", "Deutsch", "indem", "lese", "ich", "viele", "Bücher"],
+        "explanation": {
+          "grammar": [
+            "indem = al/de modo que (manera/método)",
+            "Describe CÓMO se hace algo",
+            "Equivalente a 'by + -ing' en inglés"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "Ich lerne Deutsch, indem ich viel lese",
+        "Du lernst Deutsch, indem du viel liest",
+        "Er/sie/es lernt Deutsch, indem er/sie/es viel liest",
+        "Wir lernen Deutsch, indem wir viel lesen",
+        "Ihr lernt Deutsch, indem ihr viel lest",
+        "Sie/Sie lernen Deutsch, indem sie/Sie viel lesen"
+      ],
+      "perfekt": [
+        "Ich habe Deutsch gelernt, indem ich viel geübt habe",
+        "Du hast Deutsch gelernt, indem du much geübt hast",
+        "Er/sie/es hat Deutsch gelernt, indem er/sie/es viel geübt hat",
+        "Wir haben Deutsch gelernt, indem wir viel geübt haben",
+        "Ihr habt Deutsch gelernt, indem ihr viel geübt habt",
+        "Sie/Sie haben Deutsch gelernt, indem sie/Sie viel geübt haben"
+      ],
+      "futur": [
+        "Ich werde Deutsch lernen, indem ich Kurse besuche",
+        "Du wirst Deutsch lernen, indem du Kurse besuchst",
+        "Er/sie/es wird Deutsch lernen, indem er/sie/es Kurse besucht",
+        "Wir werden Deutsch lernen, indem wir Kurse besuchen",
+        "Ihr werdet Deutsch lernen, indem ihr Kurse besucht",
+        "Sie/Sie werden Deutsch lernen, indem sie/Sie Kurse besuchen"
+      ]
+    },
+    "matching": [
+      {"q": "indem significa", "a": "al/de modo que (manera)"},
+      {"q": "Describe", "a": "el método o manera"},
+      {"q": "Equivalente inglés", "a": "by + -ing"},
+      {"q": "Estructura", "a": "igual que otras subordinadas"}
+    ]
+  },
+  {
+    "verb": "Vergleich: Hauptsatz vs Nebensatz",
+    "type": "subordinate",
+    "emoji": "⚖️",
+    "tip": "¡Regla clave! Hauptsatz: verbo en posición 2. Nebensatz: verbo AL FINAL. Nebensatz primero → inversión.",
+    "tenses": [
+      {
+        "tense": "Verbstellung Vergleich",
+        "correctSentence": ["Ich", "gehe", "nach", "Hause", "weil", "ich", "müde", "bin"],
+        "translation": "Voy a casa porque estoy cansado",
+        "words": ["Hause", "gehe", "nach", "Ich", "weil", "müde", "ich", "bin"],
+        "explanation": {
+          "grammar": [
+            "HAUPTSATZ: Verbo en POSICIÓN 2",
+            "NEBENSATZ: Verbo al FINAL",
+            "Conjunciones subordinantes: weil, dass, wenn, obwohl, damit..."
+          ]
+        }
+      },
+      {
+        "tense": "Inversion con Nebensatz inicial",
+        "correctSentence": ["Weil", "ich", "müde", "bin", "gehe", "ich", "nach", "Hause"],
+        "translation": "Porque estoy cansado, voy a casa",
+        "words": ["bin", "ich", "müde", "Weil", "Hause", "gehe", "nach", "ich"],
+        "explanation": {
+          "grammar": [
+            "Si Nebensatz va PRIMERO: Verbo en POSICIÓN 1 de Hauptsatz",
+            "INVERSIÓN: Sujeto y verbo cambian posición",
+            "Coma obligatoria entre Nebensatz y Hauptsatz"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "Ich gehe nach Hause, weil ich müde bin (Hauptsatz primero)",
+        "Weil ich müde bin, gehe ich nach Hause (Nebensatz primero)",
+        "Du gehst nach Hause, weil du müde bist",
+        "Weil du müde bist, gehst du nach Hause",
+        "Er/sie/es geht nach Hause, weil er/sie/es müde ist",
+        "Weil er/sie/es müde ist, geht er/sie/es nach Hause"
+      ],
+      "perfekt": [
+        "Ich habe geschlafen, weil ich müde war",
+        "Weil ich müde war, habe ich geschlafen",
+        "Du hast geschlafen, porque du müde warst",
+        "Weil du müde warst, hast du geschlafen",
+        "Er/sie/es hat geschlafen, weil er/sie/es müde war",
+        "Weil er/sie/es müde war, hat er/sie/es geschlafen"
+      ],
+      "futur": [
+        "Ich werde schlafen, weil ich müde sein werde",
+        "Weil ich müde sein werde, werde ich schlafen",
+        "Du wirst schlafen, weil du müde sein wirst",
+        "Weil du müde sein wirst, wirst du schlafen",
+        "Er/sie/es wird schlafen, weil er/sie/es müde sein wird",
+        "Weil er/sie/es müde sein wird, wird er/sie/es schlafen"
+      ]
+    },
+    "matching": [
+      {"q": "Hauptsatz: Verbo", "a": "en posición 2"},
+      {"q": "Nebensatz: Verbo", "a": "SIEMPRE al final"},
+      {"q": "Nebensatz primero", "a": "inversión en Hauptsatz"},
+      {"q": "Conjunciones subordinantes", "a": "weil, dass, wenn, ob, obwohl..."}
+    ]
+  }
+]
