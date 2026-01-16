@@ -211,12 +211,12 @@ Este proyecto está bajo la licencia **MIT**. Ver `LICENSE` para más detalles.
 - Comunidad de estudiantes de alemán por su feedback  
 - Contribuidores que mejoran esta app cada día  
 
-<div align="center">
+
 🌍 Aprende Alemán  
 ![PWA Ready](./icons/PWA-Ready-brightgreen.svg)  
 ![Offline](./icons/Offline-100-blue.svg)  
 ![Open Source](./icons/OpenSource-heart-red.svg)
-</div>
+
 
 ---
 
