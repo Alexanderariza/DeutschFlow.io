@@ -1,0 +1,60 @@
+{
+  "modules": [
+    {
+      "id": "modulo1",
+      "title": "Verbos 1",
+      "file": "modulo1.json"
+    },
+    {
+      "id": "modulo2",
+      "title": "Verbos 2",
+      "file": "modulo2.json"
+    },
+    {
+      "id": "modulo3",
+      "title": "Verbos 3",
+      "file": "modulo3.json"
+    },
+    {
+      "id": "modales",
+      "title": "Verbkonjugation: Modalverben",
+      "file": "modales.json"
+    },
+    {
+      "id": "reflexivos",
+      "title": "Verbos Reflexivos",
+      "file": "reflexivos.json"
+    },
+    {
+      "id": "separables",
+      "title": "Verbos Separables",
+      "file": "separables.json"
+    },
+    {
+      "id": "subordinadas",
+      "title": "Nebensätze (Subordinadas)",
+      "file": "subordinadas.json"
+    },
+    {
+      "id": "preposiciones",
+      "title": "Präpositionen",
+      "file": "preposiciones.json"
+    },
+    {
+      "id": "imperativo",
+      "title": "Imperativ",
+      "file": "Imperativo.json"
+    },
+    {
+      "id": "emails",
+      "title": "Correos Electrónicos",
+      "file": "emails.json"
+    },
+    {
+      "id": "orientierung",
+      "title": "Orientierung in der Stadt",
+      "file": "Orientierung.json"
+    }
+  ],
+  "total_modules": 11
+}

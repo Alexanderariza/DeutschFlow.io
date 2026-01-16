@@ -1,0 +1,998 @@
+[
+  {
+    "type": "theory",
+    "emoji": "🎯",
+    "verb": "TEORÍA: Imperativo en Alemán",
+    "theory": {
+      "title": "Guía Completa del Imperativo en Alemán",
+      "content": [
+        "El imperativo se usa para dar órdenes, hacer peticiones o dar instrucciones. En alemán tiene tres formas principales según el destinatario.",
+        "Formas del imperativo: 'du' (tú informal), 'ihr' (vosotros), 'Sie' (usted formal).",
+        "Para formar el imperativo 'du': generalmente se quita la terminación -st del presente, pero hay excepciones con verbos fuertes.",
+        "Para formar el imperativo 'ihr': se usa la forma del presente sin el pronombre 'ihr'.",
+        "Para formar el imperativo 'Sie': se usa la forma del presente invertida (verbo + Sie).",
+        "Reglas especiales: verbos que terminan en -d, -t, -chn, -ffn, -gn mantienen la -e en imperativo 'du' para facilitar la pronunciación."
+      ],
+      "tips": [
+        "📌 En verbos fuertes, observa los cambios vocálicos: geben → gib, lesen → lies, essen → iss",
+        "📌 'Sein' y 'haben' son irregulares: sei, hab (du) / seid, habt (ihr) / seien Sie, haben Sie (Sie)",
+        "📌 Verbos separables: el prefijo va al final en imperativo: Mach die Tür zu! (Cierra la puerta)",
+        "📌 Siempre se puede añadir 'bitte' (por favor) para hacer la petición más educada",
+        "📌 En contexto formal, use siempre 'Sie' con mayúscula: Kommen Sie bitte herein",
+        "📌 Para negativo: use 'nicht' o 'kein': Mach das nicht! (¡No hagas eso!)",
+        "📌 El imperativo 'wir' (nosotros) se forma con 'lasst uns' + infinitivo: Lasst uns gehen! (¡Vamos!)"
+      ]
+    }
+  },
+  {
+    "verb": "sein (ser/estar)",
+    "type": "verb",
+    "emoji": "🤫",
+    "teoria": {
+      "situation": "Dar órdenes o consejos sobre estados o comportamientos",
+      "estructura_tipica": [
+        "1. Forma imperativa según destinatario",
+        "2. Adjetivo que describe el estado deseado",
+        "3. 'bitte' para hacerlo más educado (opcional)",
+        "4. Signo de exclamación al final"
+      ],
+      "expresiones_clave": [
+        "Sei ... (Sé... - tú)",
+        "Seid ... (Sed... - vosotros)",
+        "Seien Sie ... (Sea... - usted)",
+        "Sei ruhig (Sé tranquilo)",
+        "Sei pünktlich (Sé puntual)"
+      ],
+      "consejos": [
+        "Usar con adjetivos que describan comportamiento",
+        "Muy común en contextos educativos o paternales",
+        "Para consejos amigables: Sei vorsichtig! (¡Ten cuidado!)"
+      ]
+    },
+    "situation": "Dar consejos sobre comportamiento",
+    "tenses": [
+      {
+        "tense": "Imperativ (du)",
+        "correctSentence": ["Sei", "bitte", "leise"],
+        "translation": "Sé silencioso, por favor",
+        "words": ["leise", "bitte", "Sei"],
+        "explanation": {
+          "grammar": [
+            "El imperativo de 'sein' es irregular: sei (du).",
+            "Forma 'ihr': seid",
+            "Forma formal: seien Sie"
+          ]
+        }
+      },
+      {
+        "tense": "Perfekt",
+        "correctSentence": ["Ich", "bin", "ruhig", "gewesen"],
+        "translation": "He estado tranquilo",
+        "words": ["gewesen", "bin", "ruhig", "Ich"],
+        "explanation": {
+          "grammar": [
+            "Participio de sein: gewesen.",
+            "Usa 'sein' como verbo auxiliar"
+          ]
+        }
+      },
+      {
+        "tense": "Präteritum",
+        "correctSentence": ["Ich", "war", "müde"],
+        "translation": "Estaba cansado",
+        "words": ["müde", "war", "Ich"],
+        "explanation": {
+          "grammar": [
+            "Pasado simple de sein: ich war",
+            "Conjugación irregular"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "ich bin",
+        "du bist",
+        "er/sie/es ist",
+        "wir sind",
+        "ihr seid",
+        "sie/Sie sind"
+      ],
+      "perfekt": [
+        "ich bin gewesen",
+        "du bist gewesen",
+        "er/sie/es ist gewesen",
+        "wir sind gewesen",
+        "ihr seid gewesen",
+        "sie/Sie sind gewesen"
+      ],
+      "futur": [
+        "ich werde sein",
+        "du wirst sein",
+        "er/sie/es wird sein",
+        "wir werden sein",
+        "ihr werdet sein",
+        "sie/Sie werden sein"
+      ]
+    },
+    "matching": [
+      {"q": "Imperativ (du)", "a": "sei"},
+      {"q": "Imperativ (ihr)", "a": "seid"},
+      {"q": "Imperativ (Sie)", "a": "seien Sie"},
+      {"q": "Perfekt", "a": "bin gewesen"},
+      {"q": "Präteritum", "a": "war"}
+    ]
+  },
+  {
+    "verb": "geben (dar)",
+    "type": "verb",
+    "emoji": "🤲",
+    "teoria": {
+      "situation": "Pedir que se dé o entregue algo",
+      "estructura_tipica": [
+        "1. Forma imperativa del verbo",
+        "2. Objeto indirecto (si hay)",
+        "3. Objeto directo",
+        "4. 'bitte' para hacerlo educado"
+      ],
+      "expresiones_clave": [
+        "Gib mir... (Dame...)",
+        "Gebt uns... (Dadnos...)",
+        "Geben Sie mir... (Deme...)",
+        "Gib mir die Hand (Dame la mano)",
+        "Gib mir das Buch (Dame el libro)"
+      ],
+      "consejos": [
+        "Siempre especificar qué dar y a quién",
+        "En contexto formal, use siempre 'Sie'",
+        "Combinación común: geben + dativo + acusativo"
+      ]
+    },
+    "situation": "Pedir que se entregue algo",
+    "tenses": [
+      {
+        "tense": "Imperativ (du)",
+        "correctSentence": ["Gib", "mir", "das", "Buch"],
+        "translation": "Dame el libro",
+        "words": ["Buch", "das", "mir", "Gib"],
+        "explanation": {
+          "grammar": [
+            "Cambio e -> i en imperativo: gib.",
+            "Forma 'ihr': gebt",
+            "Forma formal: geben Sie"
+          ]
+        }
+      },
+      {
+        "tense": "Perfekt",
+        "correctSentence": ["Ich", "habe", "es", "gegeben"],
+        "translation": "Lo he dado",
+        "words": ["gegeben", "habe", "es", "Ich"],
+        "explanation": {
+          "grammar": [
+            "Participio: gegeben.",
+            "Usa 'haben' como verbo auxiliar"
+          ]
+        }
+      },
+      {
+        "tense": "Präteritum",
+        "correctSentence": ["Er", "gab", "mir", "Geld"],
+        "translation": "Él me dio dinero",
+        "words": ["Geld", "gab", "mir", "Er"],
+        "explanation": {
+          "grammar": [
+            "Pasado fuerte: gab",
+            "Conjugación irregular"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "ich gebe",
+        "du gibst",
+        "er/sie/es gibt",
+        "wir geben",
+        "ihr gebt",
+        "sie/Sie geben"
+      ],
+      "perfekt": [
+        "ich habe gegeben",
+        "du hast gegeben",
+        "er/sie/es hat gegeben",
+        "wir haben gegeben",
+        "ihr habt gegeben",
+        "sie/Sie haben gegeben"
+      ],
+      "futur": [
+        "ich werde geben",
+        "du wirst geben",
+        "er/sie/es wird geben",
+        "wir werden geben",
+        "ihr werdet geben",
+        "sie/Sie werden geben"
+      ]
+    },
+    "matching": [
+      {"q": "Imperativ (du)", "a": "gib"},
+      {"q": "Imperativ (ihr)", "a": "gebt"},
+      {"q": "Imperativ (Sie)", "a": "geben Sie"},
+      {"q": "Perfekt", "a": "habe gegeben"},
+      {"q": "Präteritum", "a": "gab"}
+    ]
+  },
+  {
+    "verb": "nehmen (tomar/coger)",
+    "type": "verb",
+    "emoji": "💊",
+    "teoria": {
+      "situation": "Pedir que se tome o coja algo",
+      "estructura_tipica": [
+        "1. Forma imperativa del verbo",
+        "2. Artículo + objeto directo",
+        "3. Indicaciones adicionales (si las hay)"
+      ],
+      "expresiones_clave": [
+        "Nimm... (Toma/Coge...)",
+        "Nehmt... (Tomad/Coged...)",
+        "Nehmen Sie... (Tome/Coja...)",
+        "Nimm Platz (Toma asiento)",
+        "Nimm deine Medizin (Toma tu medicina)"
+      ],
+      "consejos": [
+        "Muy usado con medicinas y asientos",
+        "En contexto formal: Nehmen Sie Platz! (¡Tome asiento!)",
+        "Siempre especificar qué tomar"
+      ]
+    },
+    "situation": "Invitar a tomar algo o coger",
+    "tenses": [
+      {
+        "tense": "Imperativ (du)",
+        "correctSentence": ["Nimm", "deine", "Medizin"],
+        "translation": "Toma tu medicina",
+        "words": ["Medizin", "deine", "Nimm"],
+        "explanation": {
+          "grammar": [
+            "Imperativo irregular: nimm.",
+            "Forma 'ihr': nehmt",
+            "Forma formal: nehmen Sie"
+          ]
+        }
+      },
+      {
+        "tense": "Perfekt",
+        "correctSentence": ["Ich", "habe", "es", "genommen"],
+        "translation": "Lo he tomado",
+        "words": ["genommen", "habe", "es", "Ich"],
+        "explanation": {
+          "grammar": [
+            "Participio: genommen.",
+            "Participio irregular"
+          ]
+        }
+      },
+      {
+        "tense": "Präteritum",
+        "correctSentence": ["Ich", "nahm", "den", "Schlüssel"],
+        "translation": "Tomé la llave",
+        "words": ["Schlüssel", "den", "nahm", "Ich"],
+        "explanation": {
+          "grammar": [
+            "Pasado fuerte: nahm",
+            "Cambio e->a en raíz"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "ich nehme",
+        "du nimmst",
+        "er/sie/es nimmt",
+        "wir nehmen",
+        "ihr nehmt",
+        "sie/Sie nehmen"
+      ],
+      "perfekt": [
+        "ich habe genommen",
+        "du hast genommen",
+        "er/sie/es hat genommen",
+        "wir haben genommen",
+        "ihr habt genommen",
+        "sie/Sie haben genommen"
+      ],
+      "futur": [
+        "ich werde nehmen",
+        "du wirst nehmen",
+        "er/sie/es wird nehmen",
+        "wir werden nehmen",
+        "ihr werdet nehmen",
+        "sie/Sie werden nehmen"
+      ]
+    },
+    "matching": [
+      {"q": "Imperativ (du)", "a": "nimm"},
+      {"q": "Imperativ (ihr)", "a": "nehmt"},
+      {"q": "Imperativ (Sie)", "a": "nehmen Sie"},
+      {"q": "Perfekt", "a": "habe genommen"},
+      {"q": "Präteritum", "a": "nahm"}
+    ]
+  },
+  {
+    "verb": "lesen (leer)",
+    "type": "verb",
+    "emoji": "📖",
+    "teoria": {
+      "situation": "Pedir que se lea algo",
+      "estructura_tipica": [
+        "1. Forma imperativa del verbo",
+        "2. Artículo + objeto (texto, libro, etc.)",
+        "3. Modificador (laut, schnell, etc.)"
+      ],
+      "expresiones_clave": [
+        "Lies... (Lee...)",
+        "Lest... (Leed...)",
+        "Lesen Sie... (Lea...)",
+        "Lies laut (Lee en voz alta)",
+        "Lies den Text (Lee el texto)"
+      ],
+      "consejos": [
+        "Especificar qué leer y cómo",
+        "Común en contextos educativos",
+        "Para instrucciones: Lesen Sie die Anleitung! (¡Lea las instrucciones!)"
+      ]
+    },
+    "situation": "Instruir a leer algo",
+    "tenses": [
+      {
+        "tense": "Imperativ (du)",
+        "correctSentence": ["Lies", "den", "Text", "laut"],
+        "translation": "Lee el texto en voz alta",
+        "words": ["laut", "Text", "den", "Lies"],
+        "explanation": {
+          "grammar": [
+            "Cambio e -> ie: lies.",
+            "Forma 'ihr': lest",
+            "Forma formal: lesen Sie"
+          ]
+        }
+      },
+      {
+        "tense": "Perfekt",
+        "correctSentence": ["Ich", "habe", "viel", "gelesen"],
+        "translation": "He leído mucho",
+        "words": ["gelesen", "habe", "viel", "Ich"],
+        "explanation": {
+          "grammar": [
+            "Participio fuerte: gelesen"
+          ]
+        }
+      },
+      {
+        "tense": "Präteritum",
+        "correctSentence": ["Ich", "las", "ein", "Buch"],
+        "translation": "Leí un libro",
+        "words": ["Buch", "ein", "las", "Ich"],
+        "explanation": {
+          "grammar": [
+            "Pasado fuerte: las",
+            "Cambio e->a"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "ich lese",
+        "du liest",
+        "er/sie/es liest",
+        "wir lesen",
+        "ihr lest",
+        "sie/Sie lesen"
+      ],
+      "perfekt": [
+        "ich habe gelesen",
+        "du hast gelesen",
+        "er/sie/es hat gelesen",
+        "wir haben gelesen",
+        "ihr habt gelesen",
+        "sie/Sie haben gelesen"
+      ],
+      "futur": [
+        "ich werde lesen",
+        "du wirst lesen",
+        "er/sie/es wird lesen",
+        "wir werden lesen",
+        "ihr werdet lesen",
+        "sie/Sie werden lesen"
+      ]
+    },
+    "matching": [
+      {"q": "Imperativ (du)", "a": "lies"},
+      {"q": "Imperativ (ihr)", "a": "lest"},
+      {"q": "Imperativ (Sie)", "a": "lesen Sie"},
+      {"q": "Perfekt", "a": "habe gelesen"},
+      {"q": "Präteritum", "a": "las"}
+    ]
+  },
+  {
+    "verb": "essen (comer)",
+    "type": "verb",
+    "emoji": "🍏",
+    "teoria": {
+      "situation": "Invitar a comer o dar instrucciones sobre comida",
+      "estructura_tipica": [
+        "1. Forma imperativa del verbo",
+        "2. Complemento (comida, cantidad)",
+        "3. Adverbio (schnell, langsam, etc.)"
+      ],
+      "expresiones_clave": [
+        "Iss... (Come...)",
+        "Esst... (Comed...)",
+        "Essen Sie... (Coma...)",
+        "Iss dein Gemüse (Come tus verduras)",
+        "Iss langsam (Come despacio)"
+      ],
+      "consejos": [
+        "Muy común en contextos familiares",
+        "Para consejos nutricionales",
+        "En restaurantes: Essen Sie bitte! (¡Coma, por favor!)"
+      ]
+    },
+    "situation": "Dar instrucciones sobre comer",
+    "tenses": [
+      {
+        "tense": "Imperativ (du)",
+        "correctSentence": ["Iss", "mehr", "Obst"],
+        "translation": "Come más fruta",
+        "words": ["Obst", "mehr", "Iss"],
+        "explanation": {
+          "grammar": [
+            "Cambio e -> i: iss (doble s).",
+            "Forma 'ihr': esst",
+            "Forma formal: essen Sie"
+          ]
+        }
+      },
+      {
+        "tense": "Perfekt",
+        "correctSentence": ["Ich", "habe", "schon", "gegessen"],
+        "translation": "Ya he comido",
+        "words": ["gegessen", "habe", "schon", "Ich"],
+        "explanation": {
+          "grammar": [
+            "Participio: gegessen"
+          ]
+        }
+      },
+      {
+        "tense": "Präteritum",
+        "correctSentence": ["Gestern", "aß", "ich", "Pizza"],
+        "translation": "Ayer comí pizza",
+        "words": ["Pizza", "ich", "aß", "Gestern"],
+        "explanation": {
+          "grammar": [
+            "Pasado fuerte: aß"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "ich esse",
+        "du isst",
+        "er/sie/es isst",
+        "wir essen",
+        "ihr esst",
+        "sie/Sie essen"
+      ],
+      "perfekt": [
+        "ich habe gegessen",
+        "du hast gegessen",
+        "er/sie/es hat gegessen",
+        "wir haben gegessen",
+        "ihr habt gegessen",
+        "sie/Sie haben gegessen"
+      ],
+      "futur": [
+        "ich werde essen",
+        "du wirst essen",
+        "er/sie/es wird essen",
+        "wir werden essen",
+        "ihr werdet essen",
+        "sie/Sie werden essen"
+      ]
+    },
+    "matching": [
+      {"q": "Imperativ (du)", "a": "iss"},
+      {"q": "Imperativ (ihr)", "a": "esst"},
+      {"q": "Imperativ (Sie)", "a": "essen Sie"},
+      {"q": "Perfekt", "a": "habe gegessen"},
+      {"q": "Präteritum", "a": "aß"}
+    ]
+  },
+  {
+    "verb": "fahren (ir/conducir)",
+    "type": "verb",
+    "emoji": "🚲",
+    "teoria": {
+      "situation": "Dar instrucciones sobre transporte o movimiento",
+      "estructura_tipica": [
+        "1. Forma imperativa del verbo",
+        "2. Adverbio de modo (vorsichtig, schnell, etc.)",
+        "3. Dirección (si aplica)"
+      ],
+      "expresiones_clave": [
+        "Fahr... (Ve/Conduce...)",
+        "Fahrt... (Id/Conducid...)",
+        "Fahren Sie... (Vaya/Conduzca...)",
+        "Fahr vorsichtig (Conduce con cuidado)",
+        "Fahr nicht so schnell (No vayas tan rápido)"
+      ],
+      "consejos": [
+        "Importante para seguridad vial",
+        "Siempre mencionar precauciones",
+        "En contexto formal con conductores profesionales"
+      ]
+    },
+    "situation": "Dar instrucciones de conducción",
+    "tenses": [
+      {
+        "tense": "Imperativ (du)",
+        "correctSentence": ["Fahr", "bitte", "vorsichtig"],
+        "translation": "Conduce con cuidado, por favor",
+        "words": ["vorsichtig", "bitte", "Fahr"],
+        "explanation": {
+          "grammar": [
+            "En imperativo se quita la -e final: fahr.",
+            "Forma 'ihr': fahrt",
+            "Forma formal: fahren Sie"
+          ]
+        }
+      },
+      {
+        "tense": "Perfekt",
+        "correctSentence": ["Ich", "bin", "mit", "dem", "Rad", "gefahren"],
+        "translation": "He ido en bici",
+        "words": ["gefahren", "Rad", "dem", "mit", "bin", "Ich"],
+        "explanation": {
+          "grammar": [
+            "Usa 'sein' como auxiliar cuando hay movimiento.",
+            "Participio: gefahren"
+          ]
+        }
+      },
+      {
+        "tense": "Präteritum",
+        "correctSentence": ["Ich", "fuhr", "nach", "Berlin"],
+        "translation": "Fui a Berlín",
+        "words": ["Berlin", "nach", "fuhr", "Ich"],
+        "explanation": {
+          "grammar": [
+            "Pasado fuerte: fuhr"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "ich fahre",
+        "du fährst",
+        "er/sie/es fährt",
+        "wir fahren",
+        "ihr fahrt",
+        "sie/Sie fahren"
+      ],
+      "perfekt": [
+        "ich bin gefahren",
+        "du bist gefahren",
+        "er/sie/es ist gefahren",
+        "wir sind gefahren",
+        "ihr seid gefahren",
+        "sie/Sie sind gefahren"
+      ],
+      "futur": [
+        "ich werde fahren",
+        "du wirst fahren",
+        "er/sie/es wird fahren",
+        "wir werden fahren",
+        "ihr werdet fahren",
+        "sie/Sie werden fahren"
+      ]
+    },
+    "matching": [
+      {"q": "Imperativ (du)", "a": "fahr"},
+      {"q": "Imperativ (ihr)", "a": "fahrt"},
+      {"q": "Imperativ (Sie)", "a": "fahren Sie"},
+      {"q": "Perfekt", "a": "bin gefahren"},
+      {"q": "Präteritum", "a": "fuhr"}
+    ]
+  },
+  {
+    "verb": "machen (hacer)",
+    "type": "verb",
+    "emoji": "🚪",
+    "teoria": {
+      "situation": "Pedir que se haga algo",
+      "estructura_tipica": [
+        "1. Forma imperativa del verbo",
+        "2. Objeto directo",
+        "3. Partícula separable (si aplica: zu, auf, etc.)"
+      ],
+      "expresiones_clave": [
+        "Mach... (Haz...)",
+        "Macht... (Haced...)",
+        "Machen Sie... (Haga...)",
+        "Mach die Tür zu (Cierra la puerta)",
+        "Mach das Licht an (Enciende la luz)"
+      ],
+      "consejos": [
+        "Uno de los verbos más versátiles",
+        "Muchas expresiones con partículas separables",
+        "En contextos domésticos y laborales"
+      ]
+    },
+    "situation": "Dar instrucciones para hacer algo",
+    "tenses": [
+      {
+        "tense": "Imperativ (du)",
+        "correctSentence": ["Mach", "die", "Tür", "zu"],
+        "translation": "Cierra la puerta",
+        "words": ["zu", "Tür", "die", "Mach"],
+        "explanation": {
+          "grammar": [
+            "Imperativo de 'zumachen' (verbo separable).",
+            "Forma 'ihr': macht",
+            "Forma formal: machen Sie"
+          ]
+        }
+      },
+      {
+        "tense": "Perfekt",
+        "correctSentence": ["Ich", "habe", "Hausaufgaben", "gemacht"],
+        "translation": "He hecho los deberes",
+        "words": ["gemacht", "habe", "Hausaufgaben", "Ich"],
+        "explanation": {
+          "grammar": [
+            "Participio regular: gemacht"
+          ]
+        }
+      },
+      {
+        "tense": "Präteritum",
+        "correctSentence": ["Er", "machte", "das", "Licht", "an"],
+        "translation": "Él encendió la luz",
+        "words": ["an", "Licht", "das", "machte", "Er"],
+        "explanation": {
+          "grammar": [
+            "Pasado regular: machte"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "ich mache",
+        "du machst",
+        "er/sie/es macht",
+        "wir machen",
+        "ihr macht",
+        "sie/Sie machen"
+      ],
+      "perfekt": [
+        "ich habe gemacht",
+        "du hast gemacht",
+        "er/sie/es hat gemacht",
+        "wir haben gemacht",
+        "ihr habt gemacht",
+        "sie/Sie haben gemacht"
+      ],
+      "futur": [
+        "ich werde machen",
+        "du wirst machen",
+        "er/sie/es wird hacer",
+        "wir werden machen",
+        "ihr werdet machen",
+        "sie/Sie werden machen"
+      ]
+    },
+    "matching": [
+      {"q": "Imperativ (du)", "a": "mach"},
+      {"q": "Imperativ (ihr)", "a": "macht"},
+      {"q": "Imperativ (Sie)", "a": "machen Sie"},
+      {"q": "Perfekt", "a": "habe gemacht"},
+      {"q": "Präteritum", "a": "machte"}
+    ]
+  },
+  {
+    "verb": "kommen (venir)",
+    "type": "verb",
+    "emoji": "🏃‍♂️",
+    "teoria": {
+      "situation": "Invitar a venir o llamar a alguien",
+      "estructura_tipica": [
+        "1. Forma imperativa del verbo",
+        "2. Adverbio de lugar (her, hier, etc.)",
+        "3. Adverbio de modo (schnell, gleich, etc.)"
+      ],
+      "expresiones_clave": [
+        "Komm... (Ven...)",
+        "Kommt... (Venid...)",
+        "Kommen Sie... (Venga...)",
+        "Komm her (Ven aquí)",
+        "Komm schnell (Ven rápido)"
+      ],
+      "consejos": [
+        "Para llamar la atención de alguien",
+        "Muy usado en contextos sociales",
+        "En recepciones: Kommen Sie herein! (¡Entre!)"
+      ]
+    },
+    "situation": "Llamar a alguien para que venga",
+    "tenses": [
+      {
+        "tense": "Imperativ (du)",
+        "correctSentence": ["Komm", "schnell", "her"],
+        "translation": "Ven aquí rápido",
+        "words": ["her", "schnell", "Komm"],
+        "explanation": {
+          "grammar": [
+            "Imperativo de 'herkommen' (verbo separable).",
+            "Forma 'ihr': kommt",
+            "Forma formal: kommen Sie"
+          ]
+        }
+      },
+      {
+        "tense": "Perfekt",
+        "correctSentence": ["Wer", "ist", "gekommen", "?"],
+        "translation": "¿Quién ha venido?",
+        "words": ["gekommen", "ist", "Wer", "?"],
+        "explanation": {
+          "grammar": [
+            "Usa 'sein' como auxiliar.",
+            "Participio: gekommen"
+          ]
+        }
+      },
+      {
+        "tense": "Präteritum",
+        "correctSentence": ["Ich", "kam", "zu", "spät"],
+        "translation": "Llegué tarde",
+        "words": ["spät", "zu", "kam", "Ich"],
+        "explanation": {
+          "grammar": [
+            "Pasado fuerte: kam"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "ich komme",
+        "du kommst",
+        "er/sie/es kommt",
+        "wir kommen",
+        "ihr kommt",
+        "sie/Sie kommen"
+      ],
+      "perfekt": [
+        "ich bin gekommen",
+        "du bist gekommen",
+        "er/sie/es ist gekommen",
+        "wir sind gekommen",
+        "ihr seid gekommen",
+        "sie/Sie sind gekommen"
+      ],
+      "futur": [
+        "ich werde kommen",
+        "du wirst kommen",
+        "er/sie/es wird kommen",
+        "wir werden kommen",
+        "ihr werdet kommen",
+        "sie/Sie werden kommen"
+      ]
+    },
+    "matching": [
+      {"q": "Imperativ (du)", "a": "komm"},
+      {"q": "Imperativ (ihr)", "a": "kommt"},
+      {"q": "Imperativ (Sie)", "a": "kommen Sie"},
+      {"q": "Perfekt", "a": "bin gekommen"},
+      {"q": "Präteritum", "a": "kam"}
+    ]
+  },
+  {
+    "verb": "warten (esperar)",
+    "type": "verb",
+    "emoji": "🛑",
+    "teoria": {
+      "situation": "Pedir que se espere",
+      "estructura_tipica": [
+        "1. Forma imperativa del verbo",
+        "2. Complemento de tiempo (Moment, Stunde, etc.)",
+        "3. Preposición + objeto (auf + acusativo)"
+      ],
+      "expresiones_clave": [
+        "Warte... (Espera...)",
+        "Wartet... (Esperad...)",
+        "Warten Sie... (Espere...)",
+        "Warte einen Moment (Espera un momento)",
+        "Warte auf mich (Espérame)"
+      ],
+      "consejos": [
+        "Importante mantener la -e en imperativo por terminar en -t",
+        "Especificar cuánto tiempo esperar",
+        "Muy usado en contextos de coordinación"
+      ]
+    },
+    "situation": "Pedir que se espere",
+    "tenses": [
+      {
+        "tense": "Imperativ (du)",
+        "correctSentence": ["Warte", "einen", "Moment"],
+        "translation": "Espera un momento",
+        "words": ["Moment", "einen", "Warte"],
+        "explanation": {
+          "grammar": [
+            "En verbos que terminan en -t, se mantiene la -e en el imperativo.",
+            "Forma 'ihr': wartet",
+            "Forma formal: warten Sie"
+          ]
+        }
+      },
+      {
+        "tense": "Perfekt",
+        "correctSentence": ["Ich", "habe", "auf", "dich", "gewartet"],
+        "translation": "Te he esperado",
+        "words": ["gewartet", "dich", "auf", "habe", "Ich"],
+        "explanation": {
+          "grammar": [
+            "Participio regular: gewartet"
+          ]
+        }
+      },
+      {
+        "tense": "Präteritum",
+        "correctSentence": ["Ich", "wartete", "lange"],
+        "translation": "Esperé mucho tiempo",
+        "words": ["lange", "wartete", "Ich"],
+        "explanation": {
+          "grammar": [
+            "Pasado regular con -e-: wartete"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "ich warte",
+        "du wartest",
+        "er/sie/es wartet",
+        "wir warten",
+        "ihr wartet",
+        "sie/Sie warten"
+      ],
+      "perfekt": [
+        "ich habe gewartet",
+        "du hast gewartet",
+        "er/sie/es hat gewartet",
+        "wir haben gewartet",
+        "ihr habt gewartet",
+        "sie/Sie haben gewartet"
+      ],
+      "futur": [
+        "ich werde warten",
+        "du wirst warten",
+        "er/sie/es wird warten",
+        "wir werden warten",
+        "ihr werdet warten",
+        "sie/Sie werden warten"
+      ]
+    },
+    "matching": [
+      {"q": "Imperativ (du)", "a": "warte"},
+      {"q": "Imperativ (ihr)", "a": "wartet"},
+      {"q": "Imperativ (Sie)", "a": "warten Sie"},
+      {"q": "Perfekt", "a": "habe gewartet"},
+      {"q": "Präteritum", "a": "wartete"}
+    ]
+  },
+  {
+    "verb": "haben (tener)",
+    "type": "verb",
+    "emoji": "🍀",
+    "teoria": {
+      "situation": "Expresar deseos o dar consejos sobre tener algo",
+      "estructura_tipica": [
+        "1. Forma imperativa del verbo",
+        "2. Objeto directo (generalmente abstracto)",
+        "3. Negación (kein) si aplica"
+      ],
+      "expresiones_clave": [
+        "Hab... (Ten...)",
+        "Habt... (Tened...)",
+        "Haben Sie... (Tenga...)",
+        "Hab Geduld (Ten paciencia)",
+        "Hab keine Angst (No tengas miedo)"
+      ],
+      "consejos": [
+        "Usado principalmente con objetos abstractos",
+        "Para consejos emocionales o psicológicos",
+        "En contexto formal para expresar deseos"
+      ]
+    },
+    "situation": "Dar consejos sobre actitudes",
+    "tenses": [
+      {
+        "tense": "Imperativ (du)",
+        "correctSentence": ["Hab", "keine", "Angst"],
+        "translation": "No tengas miedo",
+        "words": ["Angst", "keine", "Hab"],
+        "explanation": {
+          "grammar": [
+            "Imperativo de haben: hab.",
+            "Forma 'ihr': habt",
+            "Forma formal: haben Sie"
+          ]
+        }
+      },
+      {
+        "tense": "Perfekt",
+        "correctSentence": ["Ich", "habe", "Glück", "gehabt"],
+        "translation": "He tenido suerte",
+        "words": ["gehabt", "habe", "Glück", "Ich"],
+        "explanation": {
+          "grammar": [
+            "Participio: gehabt"
+          ]
+        }
+      },
+      {
+        "tense": "Präteritum",
+        "correctSentence": ["Ich", "hatte", "viel", "Zeit"],
+        "translation": "Tenía mucho tiempo",
+        "words": ["Zeit", "viel", "hatte", "Ich"],
+        "explanation": {
+          "grammar": [
+            "Pasado: hatte"
+          ]
+        }
+      }
+    ],
+    "conjugations": {
+      "präsens": [
+        "ich habe",
+        "du hast",
+        "er/sie/es hat",
+        "wir haben",
+        "ihr habt",
+        "sie/Sie haben"
+      ],
+      "perfekt": [
+        "ich habe gehabt",
+        "du hast gehabt",
+        "er/sie/es hat gehabt",
+        "wir haben gehabt",
+        "ihr habt gehabt",
+        "sie/Sie haben gehabt"
+      ],
+      "futur": [
+        "ich werde haben",
+        "du wirst haben",
+        "er/sie/es wird haben",
+        "wir werden haben",
+        "ihr werdet haben",
+        "sie/Sie werden haben"
+      ]
+    },
+    "matching": [
+      {"q": "Imperativ (du)", "a": "hab"},
+      {"q": "Imperativ (ihr)", "a": "habt"},
+      {"q": "Imperativ (Sie)", "a": "haben Sie"},
+      {"q": "Perfekt", "a": "habe gehabt"},
+      {"q": "Präteritum", "a": "hatte"}
+    ]
+  }
+]
